@@ -1,0 +1,117 @@
+---
+language:
+  - en
+pretty_name: Synthetic ATC Speech
+task_categories:
+  - automatic-speech-recognition
+  - text-to-speech
+tags:
+  - audio
+  - air-traffic-control
+  - synthetic-speech
+  - robust-asr
+size_categories:
+  - 100K<n<1M
+license: other
+---
+
+# Synthetic ATC Speech
+
+Synthetic English air-traffic-control speech created for research on robust
+automatic speech recognition. The dataset contains 276,304 generated
+utterances from 15,660 unique ATC transcripts.
+
+The dataset accompanies:
+
+- [Robust ATC ASR code](https://github.com/thaivanphat95/robust-atc-asr)
+- [UWB SupCon Hybrid model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid)
+- [UWB+ATCOSIM SupCon Hybrid model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-atcosim-supcon-hybrid)
+
+## Dataset Structure
+
+The dataset provides one training split. Each row contains:
+
+| Field | Description |
+| --- | --- |
+| `file_name` | Relative path to the generated WAV file |
+| `text` | Transcript used to generate the audio |
+| `tts_system` | Speech-generation system |
+| `voice_source` | Source domain used for the synthetic voice |
+| `transcript_source` | Original transcript corpus: `UWB` or `ATCOSIM` |
+
+The dataset is balanced across four speech-generation systems and four
+voice-source domains:
+
+| Speech-generation system | Source | Samples |
+| --- | --- | ---: |
+| `afro_tts` | [intronhealth/afro-tts](https://huggingface.co/intronhealth/afro-tts) | 69,076 |
+| `cosyvoice_tts` | [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) | 69,076 |
+| `glm_tts` | [zai-org/GLM-TTS](https://github.com/zai-org/GLM-TTS) | 69,076 |
+| `xtts_v2_tts` | [coqui-ai/TTS](https://github.com/coqui-ai/TTS) | 69,076 |
+
+| Voice source | Source | Samples |
+| --- | --- | ---: |
+| `atcosim` | [ATCOSIM](https://huggingface.co/datasets/Jzuluaga/atcosim_corpus) | 69,076 |
+| `l2arctic` | [L2-ARCTIC](https://psi.engr.tamu.edu/l2-arctic-corpus/) | 69,076 |
+| `marine` | [Marine Radio Chatter: Bridge-to-Bridge Communication](https://www.kaggle.com/datasets/linogova/marine-radio-chatter-bridge-2-bridge-communication) | 69,076 |
+| `uwb` | [UWB-ATCC](https://huggingface.co/datasets/Jzuluaga/uwb_atcc) | 69,076 |
+
+## Usage
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("thaivanphat95/synthetic-atc-speech", split="train")
+sample = dataset[0]
+
+print(sample["text"])
+print(sample["tts_system"])
+print(sample["voice_source"])
+```
+
+## Intended Use
+
+The dataset is intended for research on:
+
+- Robust ATC automatic speech recognition
+- Synthetic-data augmentation
+- Cross-domain and cross-dataset robustness
+- Analysis of speech-generation diversity
+
+It should not be used as real ATC communication or relied upon in
+safety-critical operational systems.
+
+## Source Data
+
+ATC transcripts are derived from UWB-ATCC and ATCOSIM. Voice-source material is
+derived from four corpora:
+
+- UWB-ATCC: https://huggingface.co/datasets/Jzuluaga/uwb_atcc
+- ATCOSIM: https://huggingface.co/datasets/Jzuluaga/atcosim_corpus
+- L2-ARCTIC: https://psi.engr.tamu.edu/l2-arctic-corpus/
+- Marine Radio Chatter: https://www.kaggle.com/datasets/linogova/marine-radio-chatter-bridge-2-bridge-communication
+
+Synthetic speech was generated using:
+
+- GLM-TTS: https://github.com/zai-org/GLM-TTS
+- CosyVoice: https://github.com/FunAudioLLM/CosyVoice
+- Afro-TTS: https://huggingface.co/intronhealth/afro-tts
+- XTTS: https://github.com/coqui-ai/TTS
+
+Users are responsible for reviewing the terms of the source datasets,
+source-voice material, and speech-generation systems.
+
+## Limitations
+
+- Audio is synthetic and does not reproduce every property of real ATC speech.
+- Generation systems and voice sources may introduce systematic artifacts or
+  biases.
+- Transcripts are specialized for English ATC communication.
+- The dataset may contain generation errors despite metadata integrity checks.
+
+## License
+
+This dataset is published with `license: other`. Its use and redistribution may
+be affected by the terms of the source transcripts, source voices,
+speech-generation systems, and related third-party material. The Apache-2.0
+license of the associated code repository does not cover this dataset.
