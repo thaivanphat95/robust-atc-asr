@@ -1,21 +1,115 @@
-# Accent ASR
+# Robust ATC ASR
 
-Training utilities for accent-robust CTC ASR with supervised contrastive
-learning. The repository supports repeated-transcript, similar-transcript,
-synthetic-pair, and hybrid training.
+Research code for robust air traffic control speech recognition.
+
+Associated papers:
+
+- **Contrastive Regularization for Accent-Robust ASR** (INTERSPEECH 2026)
+- **Improving Cross-Dataset Robustness of Air Traffic Control Speech Recognition** (ITSC 2026)
+
+The repository provides CTC and supervised contrastive learning workflows for
+repeated transcripts, similar transcripts, synthetic speech, and hybrid
+training.
+
+## Quick Start
+
+### Install
+
+Create an environment with a CUDA-compatible PyTorch build when using a GPU,
+then install the pinned dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Train
+
+Training entry points are under `scripts/`:
+
+| Script | Training strategy |
+| --- | --- |
+| `train_repeated.py` | SupCon using repeated transcripts |
+| `train_alternative.py` | Alternating similar-transcript SupCon and CTC-only batches |
+| `train_tts.py` | SupCon using original and synthetic transcript pairs |
+| `train_hybrid.py` | Similar-transcript, synthetic-pair, and CTC-only batches |
+
+Warm up the CTC head before SupCon training:
+
+```bash
+python scripts/warmup.py \
+  --prefix Arctic/8fold/0 \
+  --backbone w2v2-large
+```
+
+Example repeated-transcript training:
+
+```bash
+python scripts/train_repeated.py \
+  --prefix Arctic/8fold/0 \
+  --backbone w2v2-large
+```
+
+Example hybrid ATC training:
+
+```bash
+python scripts/prepare_similar.py --prefix UWB_ATCOSIM --coverage 0.5
+
+python scripts/train_hybrid.py \
+  --prefix UWB_ATCOSIM \
+  --backbone w2v2-robust \
+  --similar-csv ngram_50.csv
+```
+
+Run any script with `--help` to see its complete CLI.
+
+### Validate
+
+Published Hugging Face models are self-contained and include their processor.
+
+Greedy decoding:
+
+```bash
+python scripts/validate.py \
+  --model-path thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid \
+  --csv files/UWB/val.csv
+```
+
+4-gram decoding:
+
+```bash
+python scripts/validate.py \
+  --model-path thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid-4gram \
+  --decoder lm \
+  --csv files/UWB/val.csv
+```
+
+For an older checkpoint with a separately stored processor, add
+`--processor-path`.
+
+## Published Models
+
+Models ending in `-4gram` include a 4-gram language model for decoding.
+
+| Training setup | Greedy decoding | 4-gram decoding |
+| --- | --- | --- |
+| UWB SupCon Hybrid | [Model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid-4gram) |
+| UWB+ATCOSIM SupCon Hybrid | [Model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-atcosim-supcon-hybrid) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-atcosim-supcon-hybrid-4gram) |
+| L2-ARCTIC repeated SupCon, 8-fold split 0 | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-8fold-0) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-8fold-0-4gram) |
+| L2-ARCTIC repeated SupCon, Arabic L1 holdout | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-arabic-holdout) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-arabic-holdout-4gram) |
 
 ## Repository Layout
 
 ```text
-files/      CSV metadata and dataset splits
-scripts/    Data preparation, training, validation, and warm-up commands
-src/        Shared models, data pipelines, samplers, and training utilities
-dataset/    Local audio files; excluded from Git
-weights/    Local processors, checkpoints, and trained models; excluded from Git
+requirements.txt    Pinned Python dependencies
+scripts/            Data preparation, training, validation, and warm-up CLIs
+src/                Models, data pipelines, samplers, and training utilities
+files/              CSV metadata and dataset splits
+dataset/            Local audio files; excluded from Git
+weights/            Local processors, checkpoints, and models; excluded from Git
 ```
 
 Dataset split paths are mirrored below `files/` and
-`weights/<backbone>/`. For example:
+`weights/<backbone>/`:
 
 ```text
 files/Arctic/8fold/0/
@@ -26,21 +120,52 @@ weights/w2v2-large/Arctic/8fold/0/Supcon_Repeated/
 CSV files must contain `audio_filename` and `transcript`. Audio paths may be
 absolute or relative to the repository root.
 
+## Training Workflows
+
+### Repeated Transcripts
+
+`train_repeated.py` forms SupCon groups from samples with identical
+transcripts. L2-ARCTIC provides repeated prompts across speakers.
+
+### Similar Transcripts
+
+`prepare_similar.py` groups samples using shared n-grams. The generated CSV is
+then consumed by `train_alternative.py` or `train_hybrid.py`.
+
+```bash
+python scripts/prepare_similar.py --prefix UWB_ATCOSIM --coverage 0.5
+python scripts/train_alternative.py --prefix UWB_ATCOSIM --similar-csv ngram_50.csv
+```
+
+### Synthetic Pairs
+
+`train_tts.py` forms SupCon groups from original utterances and synthetic audio
+sharing the same transcript.
+
+```bash
+python scripts/train_tts.py --prefix UWB_ATCOSIM
+```
+
+### Hybrid Training
+
+`train_hybrid.py` combines similar-transcript, synthetic-pair, and CTC-only
+batches.
+
 ## Datasets
 
 Audio datasets are not distributed with this repository. Download each corpus
-from its original source, review its terms of use, and place the extracted audio
-under `dataset/`. The included CSV metadata under `files/` uses paths relative
-to the repository root.
+from its original source, review its terms of use, and place the extracted
+audio under `dataset/`. The included CSV metadata under `files/` uses paths
+relative to the repository root.
 
 | Dataset | Description | Source | Expected local path |
 | --- | --- | --- | --- |
-| UWB-ATCC | English air-traffic-control speech recorded from real ATC communications. It is used as the original speech source for similar-transcript, synthetic-pair, and hybrid training. | [Hugging Face](https://huggingface.co/datasets/Jzuluaga/uwb_atcc) | `dataset/UWB/` |
-| ATCOSIM | English simulated air-traffic-control speech. It can be combined with UWB-ATCC to increase speaker and acoustic diversity. | [Hugging Face](https://huggingface.co/datasets/Jzuluaga/atcosim_corpus) | `dataset/ATCOSIM/` |
-| ATCO2 1-hour test set | A one-hour English ATC evaluation set containing 871 utterances. It is used for evaluation rather than training. | [Hugging Face](https://huggingface.co/datasets/Jzuluaga/atco2_corpus_1h) | `dataset/ATCO2/audios/` |
-| L2-ARCTIC | Non-native English read speech from 24 speakers across Arabic, Hindi, Korean, Mandarin, Spanish, and Vietnamese L1 groups. Shared prompts provide repeated transcripts for repeated-transcript SupCon training. | [PSI Lab](https://psi.engr.tamu.edu/l2-arctic-corpus/) | `dataset/Arctic/` |
+| UWB-ATCC | English speech recorded from real ATC communications. | [Hugging Face](https://huggingface.co/datasets/Jzuluaga/uwb_atcc) | `dataset/UWB/` |
+| ATCOSIM | English simulated ATC speech. | [Hugging Face](https://huggingface.co/datasets/Jzuluaga/atcosim_corpus) | `dataset/ATCOSIM/` |
+| ATCO2 1-hour test set | Real-world English ATC evaluation set. | [Hugging Face](https://huggingface.co/datasets/Jzuluaga/atco2_corpus_1h) | `dataset/ATCO2/audios/` |
+| L2-ARCTIC | Non-native English read speech with shared prompts across speakers. | [PSI Lab](https://psi.engr.tamu.edu/l2-arctic-corpus/) | `dataset/Arctic/` |
 
-The provided metadata is organized as follows:
+Metadata layout:
 
 ```text
 files/Arctic/8fold/<fold>/                 Repeated-transcript cross-validation
@@ -62,82 +187,3 @@ This code license does not cover datasets, transcripts, metadata derived from
 datasets, synthetic audio, or model weights. These materials remain governed by
 their original licenses and terms. See [DATA_LICENSES.md](DATA_LICENSES.md) for
 dataset-specific attribution and licensing notes.
-
-## Published Models
-
-Each Hugging Face repository is self-contained and includes the acoustic model
-and its matching processor. Models ending in `-4gram` additionally include a
-4-gram language model for decoding.
-
-| Training setup | Greedy decoding | 4-gram decoding |
-| --- | --- | --- |
-| UWB SupCon Hybrid | [Model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid-4gram) |
-| UWB+ATCOSIM SupCon Hybrid | [Model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-atcosim-supcon-hybrid) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-atcosim-supcon-hybrid-4gram) |
-| L2-ARCTIC repeated SupCon, 8-fold split 0 | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-8fold-0) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-8fold-0-4gram) |
-| L2-ARCTIC repeated SupCon, Arabic L1 holdout | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-arabic-holdout) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-arabic-holdout-4gram) |
-
-## Installation
-
-Create an environment with a CUDA-compatible PyTorch build when using a GPU,
-then install the remaining dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Workflow
-
-Warm up the CTC head:
-
-```bash
-python scripts/warmup.py --prefix Arctic/8fold/0 --backbone w2v2-large
-```
-
-Train with repeated transcripts:
-
-```bash
-python scripts/train_repeated.py --prefix Arctic/8fold/0 --backbone w2v2-large
-```
-
-Generate similar-transcript groups and train with them:
-
-```bash
-python scripts/prepare_similar.py --prefix UWB_ATCOSIM --coverage 0.5
-python scripts/train_alternative.py --prefix UWB_ATCOSIM --similar-csv ngram_50.csv
-python scripts/train_hybrid.py --prefix UWB_ATCOSIM --similar-csv ngram_50.csv
-```
-
-Train with original and synthetic transcript pairs:
-
-```bash
-python scripts/train_tts.py --prefix UWB_ATCOSIM
-```
-
-Evaluate a model:
-
-```bash
-python scripts/validate.py \
-  --model-path thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid \
-  --csv files/UWB/val.csv
-```
-
-Evaluate a self-contained 4-gram model:
-
-```bash
-python scripts/validate.py \
-  --model-path thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid-4gram \
-  --decoder lm \
-  --csv files/UWB/val.csv
-```
-
-For older checkpoints that store the processor separately, provide an explicit
-override:
-
-```bash
-python scripts/validate.py \
-  --model-path weights/w2v2-large/Arctic/8fold/0/Supcon_Repeated \
-  --processor-path weights/w2v2-large/Arctic/8fold/0/model \
-  --csv files/Arctic/8fold/0/test.csv
-```
-
-Run any script with `--help` to see its complete CLI.
