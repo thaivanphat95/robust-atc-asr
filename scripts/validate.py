@@ -47,20 +47,21 @@ def load_audio(path_audio, target_sr=16000):
 
 
 class Wav2Vec2Validator:
-    def __init__(self, model_path, processor_path, decoder="greedy", device=None):
+    def __init__(self, model_path, processor_path=None, decoder="greedy", device=None):
         import torch
-        from transformers import AutoProcessor, Wav2Vec2ForCTC, Wav2Vec2ProcessorWithLM
+        from transformers import AutoModelForCTC, AutoProcessor, Wav2Vec2ProcessorWithLM
 
         self.torch = torch
         self.decoder = decoder
         self.device = torch.device(device or ("cuda" if torch.cuda.is_available() else "cpu"))
+        processor_path = processor_path or model_path
 
         if decoder == "lm":
             self.processor = Wav2Vec2ProcessorWithLM.from_pretrained(processor_path)
         else:
             self.processor = AutoProcessor.from_pretrained(processor_path)
 
-        self.model = Wav2Vec2ForCTC.from_pretrained(model_path).to(self.device)
+        self.model = AutoModelForCTC.from_pretrained(model_path).to(self.device)
         self.model.eval()
 
     def predict(self, path_audio):
@@ -113,9 +114,13 @@ def write_predictions(path_output, all_records):
 
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="Evaluate a wav2vec2-large CTC model with greedy or 4-gram LM decoding.")
-    parser.add_argument("--model-path", required=True, help="Path to the fine-tuned model checkpoint.")
-    parser.add_argument("--processor-path", required=True, help="Path to the greedy processor or 4-gram LM processor.")
+    parser = argparse.ArgumentParser(description="Evaluate a CTC model with greedy or 4-gram LM decoding.")
+    parser.add_argument("--model-path", required=True, help="Local model path or Hugging Face model ID.")
+    parser.add_argument(
+        "--processor-path",
+        default=None,
+        help="Optional processor path or model ID. Defaults to --model-path.",
+    )
     parser.add_argument("--decoder", choices=["greedy", "lm"], default="greedy", help="Decode with argmax CTC or a 4-gram LM processor.")
     parser.add_argument("--csv", default="test.csv", help="Evaluation CSV with audio_filename and transcript columns.")
     parser.add_argument("--device", default=None, help="Torch device. Defaults to cuda when available, otherwise cpu.")

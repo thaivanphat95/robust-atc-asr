@@ -63,6 +63,19 @@ datasets, synthetic audio, or model weights. These materials remain governed by
 their original licenses and terms. See [DATA_LICENSES.md](DATA_LICENSES.md) for
 dataset-specific attribution and licensing notes.
 
+## Published Models
+
+Each Hugging Face repository is self-contained and includes the acoustic model
+and its matching processor. Models ending in `-4gram` additionally include a
+4-gram language model for decoding.
+
+| Training setup | Greedy decoding | 4-gram decoding |
+| --- | --- | --- |
+| UWB SupCon Hybrid | [Model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid-4gram) |
+| UWB+ATCOSIM SupCon Hybrid | [Model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-atcosim-supcon-hybrid) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-atcosim-supcon-hybrid-4gram) |
+| L2-ARCTIC repeated SupCon, 8-fold split 0 | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-8fold-0) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-8fold-0-4gram) |
+| L2-ARCTIC repeated SupCon, Arabic L1 holdout | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-arabic-holdout) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-arabic-holdout-4gram) |
+
 ## Installation
 
 Create an environment with a CUDA-compatible PyTorch build when using a GPU,
@@ -104,8 +117,26 @@ Evaluate a model:
 
 ```bash
 python scripts/validate.py \
+  --model-path thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid \
+  --csv files/UWB/val.csv
+```
+
+Evaluate a self-contained 4-gram model:
+
+```bash
+python scripts/validate.py \
+  --model-path thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid-4gram \
+  --decoder lm \
+  --csv files/UWB/val.csv
+```
+
+For older checkpoints that store the processor separately, provide an explicit
+override:
+
+```bash
+python scripts/validate.py \
   --model-path weights/w2v2-large/Arctic/8fold/0/Supcon_Repeated \
-  --processor-path weights/w2v2-large/Arctic/8fold/0/processor \
+  --processor-path weights/w2v2-large/Arctic/8fold/0/model \
   --csv files/Arctic/8fold/0/test.csv
 ```
 
