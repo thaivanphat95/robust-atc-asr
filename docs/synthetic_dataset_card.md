@@ -71,7 +71,8 @@ print(sample["voice_source"])
 
 ## Intended Use
 
-The dataset is intended for research on:
+This dataset is released for non-commercial research use. It is intended for
+research on:
 
 - Robust ATC automatic speech recognition
 - Synthetic-data augmentation
@@ -79,7 +80,8 @@ The dataset is intended for research on:
 - Analysis of speech-generation diversity
 
 It should not be used as real ATC communication or relied upon in
-safety-critical operational systems.
+safety-critical operational systems. Commercial use is not authorized by this
+dataset release.
 
 ## Source Data
 
@@ -111,7 +113,13 @@ source-voice material, and speech-generation systems.
 
 ## License
 
-This dataset is published with `license: other`. Its use and redistribution may
-be affected by the terms of the source transcripts, source voices,
-speech-generation systems, and related third-party material. The Apache-2.0
-license of the associated code repository does not cover this dataset.
+This dataset is published with `license: other` and is intended for
+non-commercial research use only. CC BY-NC 4.0 is not used because it permits
+non-commercial uses beyond research and may not satisfy all source-material
+terms, including applicable ShareAlike requirements.
+
+Use and redistribution remain subject to the terms of the source transcripts,
+source voices, speech-generation systems, and related third-party material.
+Where those terms conflict with this research-use notice, the applicable
+third-party terms control. The Apache-2.0 license of the associated code
+repository does not cover this dataset.
