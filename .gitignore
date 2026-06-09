@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Environments and local tooling
+.env
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Large local artifacts
+dataset/
+weights/
+
+# Evaluation outputs
+predictions/
+
+# Training logs and checkpoints created outside weights/
+checkpoint-*/
+runs/
+wandb/

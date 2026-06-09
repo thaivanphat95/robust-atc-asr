@@ -1,0 +1,872 @@
+audio_filename,transcript
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201028_185619-A__000000-000536.wav,oscar kilo foxtrot alfa oscar taxi to holding point runway two seven via alfa charlie
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201027_213741-A__000000-001286.wav,ok quality four zero nine one ruzyne tower information lima qnh one zero one four time check three seven cleared to liege baltu four alfa departure initial climb five thousand feet and squawk one thousand
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201026_111634-A__000000-000395.wav,oscar kilo echo lima alfa confirm proceeding to tango bravo four zero two
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201028_151125-A__000000-000444.wav,csa one delta zulu descend flight level one hundred no speed restrictions
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201028_151125-G__000444-000934.wav,descending flight level one hundred free speed csa one delta zulu
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_145941-G__000000-000349.wav,oscar kilo triple hotel please confirm one more holding
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_145941-A__000349-001153.wav,oscar kilo hotel hotel hotel affirm one holding and then it should be possible to follow ils runway zero six
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_145941-G__001153-001308.wav,roger thank you
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_144043-B__000000-000332.wav,ruzyne tower hello again euro wings one tango kilo
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_144043-A__000334-000742.wav,euro wings one tango kilo ruzyne tower good afternoon go ahead
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_144043-B__000744-001212.wav,just a question do you think there any chance to get runway two four for departure
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_144043-A__001212-002051.wav,unfortunately with delay because there are five aircraft on runway zero six landing
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_144043-B__002051-002237.wav,ok copy thank you
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Ground_125_430MHz_20201028_171509-G__000043-000822.wav,warsaw radar bel avia eight seven zero good evening flight level three five zero inbound bigu
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_142311-A__000000-000375.wav,ryan air nine two bravo quebec turn right heading zero nine zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_142311-B__000380-000689.wav,nine zero degrees ryan air nine two bravo quebec
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_213836-A__000000-001017.wav,sky travel two eight two seven and there is closed echo airspace below flight level one hundred so if you wish to avoid class echo airspace next descend in two zero miles
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201029_073731-A__000000-000297.wav,oscar kilo charlie alfa papa squawk seven thousand good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201029_073731-G__000306-000528.wav,squawk seven thousand good bye oscar kilo charlie alfa papa
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201026_092727-A__000000-000337.wav,oscar kilo echo lima alfa climb to flight level seven zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201027_114659-H__000000-000858.wav,oscar kilo bravo alfa lima request shortcut to vlasim if possible
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201028_092412-A__000000-000564.wav,oscar uniform romeo turn left heading two seven zero cleared for ils approach runway two four
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201028_092412-G__000575-001095.wav,turn left to seven zero cleared for ils runway two four oscar uniform romeo
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_090915-A__000000-000204.wav,say again the departure we for us
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_090915-D__000204-000643.wav,it is baltu four alfa to climb five thousand feet
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201028_095055-A__000000-000444.wav,lufthansa nine tango papa contact praha radar one two zero decimal two seven five bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201028_095055-G__000444-000781.wav,lufthansa nine tango papa two zero two seven five bye
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_161709-A__000000-000564.wav,time air six nine zero juliett contact ruzyne tower one three four decimal five six zero hezky vecer ahoj
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_161709-B__000564-001024.wav,one three four five six zero time air six nine zero juliett bye diky
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201027_095221-E__000000-000731.wav,oscar kilo bravo alfa lima after bukap descend to three thousand feet cleared rnp approach runway two seven report established
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201029_101954-B__000000-000587.wav,sierra papa foxtrot lima foxtrot contact wien radar one two five decimal one seven five good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201028_072404-A__000000-000300.wav,oscar kilo tango oscar papa proceed direct lanux
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201028_072404-G__000300-000608.wav,direct lanux oscar kilo tango oscar papa
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201028_131433-G__000000-000967.wav,praha radar oscar kilo uniform tango charlie dobry den passing three thousand nine hundred climbing flight level seven zero inbound vlasim ready for ifr
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201028_131433-A__000967-001463.wav,oscar kilo uniform tango charlie dobry den praha radar identified
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201028_131433-A__001465-002063.wav,climb flight level seven zero and cleared to destination benesov via flight plan route
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201028_131433-A__002065-002486.wav,ifr flight starts now time one three one four
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_051226-H__000000-000180.wav,klm one three five zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_051226-B__000180-000300.wav,sorry go ahead
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_051226-H__000300-000696.wav,yeah contact radar one two zero two seven five ahoj
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_051226-B__000698-001140.wav,one two zero two seven five ahoj klm one three five zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_094626-A__000000-000546.wav,lufthansa nine tango papa contact praha radar one two zero decimal two seven five good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_094626-B__000546-000936.wav,one two zero two seventy five bye bye nine tango papa
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201028_135638-A__000000-000451.wav,oscar kilo kilo kilo whiskey descend to five thousand feet qnh one zero one six
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201029_113918-A__000000-000227.wav,oscar kilo mike delta hotel pass your message
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201029_113918-G__000227-000824.wav,is it ok for you if we maintain four nautical miles left hand track all the way down to benesov
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201029_180205-A__000000-000561.wav,oscar kilo charlie alfa papa if able increase speed approaching traffic
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_140929-A__000000-000587.wav,euro wings seven alfa bravo turn right heading two one zero cleared ils approach runway two four report established
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_140929-B__000589-001187.wav,ding two one zero cleared for the ils two four report established euro wings seven alfa bravo
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_105217-A__000000-000409.wav,speed bird eight five five praha radar identified climb flight level one six zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_105217-B__000409-000734.wav,one six zero speed bird eight five five
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201027_112131-A__000000-000795.wav,oscar kilo mike charlie charlie runway two seven cleared for low approach wind three two zero degrees five knots after low approach continue straight ahead climb to three thousand feet
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201028_152306-B__000000-000668.wav,ruzyne tower csa one delta zulu dobry podvecer established localizer two four
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201028_152306-A__000668-001314.wav,dobry den csa one delta zulu ruzyne tower runway two four cleared to land wind two two zero degrees one four knots
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201028_152306-B__001316-001771.wav,are cleared to land runway two four csa one delta zulu
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201027_121714-A__000000-000802.wav,oscar kilo uniform tango charlie re release from frequency flying information service available at one two six decimal one praha information dobry den
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_120512-A__000000-001082.wav,oscar kilo kilo echo alfa praha radar identified climb flight level one hundred ifr flight starts now time zero five cleared to destination via flight plan route
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201026_153217-A__000566-000896.wav,oscar kilo charlie tango papa line up runway two four and wait
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201026_153217-B__000913-001254.wav,line up runway two four and wait oscar kilo charlie tango papa
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201028_103443-A__000000-000468.wav,csa nine one eight taxi holding point runway two four to the right via delta bravo
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201028_103443-C__000468-000839.wav,taxi delta bravo holding point two four csa nine one eight
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201027_122331-A__000000-000497.wav,romeo alfa zero one eight one seven your flight plan was suspended i am sending delay message
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201027_125731-D__000000-000573.wav,one one eight decimal one six five zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201027_125731-A__000573-000716.wav,that s it bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201026_143955-A__000000-000859.wav,dream team four zero four kilo taxi charlie lima and quebec behind follow me car to stand sierra three
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_205125-A__000000-000468.wav,and klm seven three whiskey reduce speed one six zero knots till four dme
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_205125-B__000468-000738.wav,sixty to four dme klm seven three whiskey
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201026_160035-A__000000-000852.wav,silesia seven six two continue charlie lima quebec quebec five behind follow me stand mike one bravo
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201027_135214-B__000000-000482.wav,ryan air one bravo alfa stand five seven qnh one zero one two request engine start
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201029_205008-A__000000-000507.wav,ruzyne tower ups two nine five ils two four nine miles
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201029_205008-B__000509-001193.wav,good evening ups two nine five ruzyne tower runway two four cleared to land wind two three zero degrees one three knots
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201029_205008-A__001193-001413.wav,runway two four cleared to land ups two nine five
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_114352-A__000000-000396.wav,oscar kilo papa romeo mike turn right heading zero six zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_114352-B__000396-000816.wav,zero six zero right turn oscar papa romeo mike
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201028_111034-A__000000-000784.wav,emirates one three nine taxi via foxtrot cross runway one two golf juliett stand one four alfa
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201028_111034-B__000784-001355.wav,taxi via foxtrot cross runway one two golf juliett stand one four alfa emirates one three nine
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_161808-A__000000-000560.wav,oscar mike papa turn right heading zero two zero cleared ils approach runway zero six speed maximum one six zero knots
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_161808-D__000590-001346.wav,right heading zero two zero cleared ils approach zero six and maximum one six zero speed confirm
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_161808-A__001346-001504.wav,i do confirm
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201027_140348-A__000000-000861.wav,kilo lima papa victor standby for runway zero nine for now follow tumka four charlie arrival due to departure from brno
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_075414-A__000000-000934.wav,oscar kilo tango uniform romeo praha radar hello identified climb to flight level seven zero and standby for ifr
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_075414-B__000936-001379.wav,climbing to flight level seven zero oscar kilo tango uniform romeo
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201028_132938-A__000000-000200.wav,oscar tango charlie roger
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201028_132938-A__000200-000798.wav,oscar kilo kilo kilo whiskey information mike qnh one zero one six tumka four charlie arrival
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_161349-B__000000-000252.wav,radar csa one delta zulu established
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_161349-A__000252-000693.wav,csa one delta zulu roger contact ruzyne tower one three four decimal five six zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_161349-B__000789-001121.wav,three four five six zero csa one delta zulu pekny den
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_130708-A__000000-000640.wav,air france one zero eight zulu standby now descend to descend flight level seven zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_130708-B__000659-000859.wav,air france one zero eight zulu
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_174652-B__000000-000467.wav,good evening lufthansa eight hotel romeo passing two thousand five hundred climbing five thousand
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_174652-A__000476-000944.wav,lufthansa eight hotel romeo praha radar good evening identified
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_174652-A__000944-001211.wav,climb to flight level one six zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_174652-B__001211-001526.wav,lufthansa eight hotel romeo climb flight level one six zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201028_135718-A__000000-000348.wav,oscar kilo delta sierra india turn left heading one zero zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201028_135718-B__000348-000638.wav,left heading one zero zero oscar kilo delta sierra india
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201026_093600-A__000000-000536.wav,oscar kilo india foxtrot romeo contact praha radar one two seven decimal five eight zero bye
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_204809-B__000006-000401.wav,ruzyne tower trans europe four two one dobry vecer establish localizer two four
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_204809-A__000476-000898.wav,trans europe four two one dobry vecer ruzyne tower continue approach runway two four
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_204809-B__000924-001218.wav,continue approach runway two four trans europe four two one
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201028_090451-A__000000-000463.wav,oscar kilo mike charlie charlie after the low approach climb straight ahead four thousand feet
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Approach-Radar_127_350MHz_20201028_090451-B__000473-000922.wav,after approach climb straight ahead four thousand feet oscar kilo mike charlie charlie
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201029_060626-B__000000-000420.wav,tower good morning quality four zero eight nine fully established on the runway zero nine
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201029_060626-A__000420-000996.wav,quality four zero eight nine turany tower good morning runway zero nine cleared to land wind is calm
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_205056-A__000000-000677.wav,klm seven three whiskey maintain present heading for vectoring for ils approach runway two four and reduce your speed now below two six zero knots
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_105855-A__000000-000420.wav,sky travel three five juliett turn right heading one eight zero vectoring for spacing
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_105855-B__000420-000828.wav,turning right heading one eight zero sky travel three five juliett
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201029_102129-A__000000-000639.wav,oscar kilo alfa papa india vacate via taxiway whiskey cross runway two six and continue to the airclub
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201029_102129-B__000639-001262.wav,vacate via whiskey cross two six and vacate via the airclub oscar kilo papa india
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201026_091524-B__000012-000860.wav,tower dobre dopoledne ryan air one juliett uniform becoming fully established ils runway two four speed maximum one eighty
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201026_091524-A__000936-001200.wav,ryan air one juliett uniform dobry den continue approach
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201026_091524-B__001249-001420.wav,continue approach ryan air one juliett uniform
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_204323-B__000000-000212.wav,ups two nine five established
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_204323-A__000285-000721.wav,ups two nine five contact tower frequency one three four five six zero bye
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_204323-B__000797-000955.wav,ups two nine five good night
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_101021-B__000000-000379.wav,ryan air seven romeo mike route reaching and holding runway two four we are ready for departure
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_101021-A__000418-000650.wav,ryan air seven romeo mike line up runway two four
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201025_101021-B__000678-000940.wav,line up and wait runway two four ryan air seven romeo mike
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_091112-A__000000-000377.wav,oscar kilo papa mike bravo descend flight level one hundred
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_091112-B__000379-000685.wav,level one hundred oscar kilo papa mike bravo
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201027_135224-A__000000-000310.wav,ryan air one bravo alfa startup is approved
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Tower_134_560MHz_20201027_135224-B__000368-000548.wav,startup approved ryan air one bravo alfa
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_121325-A__000000-000348.wav,ryan air seven three alfa hotel turn left heading three six zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_121325-B__000348-000578.wav,ryan air seven three alfa hotel
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201029_151332-A__000073-000801.wav,oscar kilo mike charlie charlie praha radar dobry den you are identified flight level seven zero after baltu proceed to benesov
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_130407-A__000000-000348.wav,oscar kilo kilo uniform november proceed direct baltu
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201025_130407-B__000348-000670.wav,proceed direct baltu oscar kilo kilo uniform november
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201027_000841-A__000000-000536.wav,jump run eight zero three vacate to the left taxi charlie alfa stand western apron
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201029_110511-B__000000-000227.wav,oscar kilo foxtrot alfa sierra approaching zulu
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201029_110511-A__000227-000588.wav,oscar kilo foxtrot alfa sierra squawk seven thousand and good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201029_110511-B__000588-000816.wav,squawk seven thousand good bye oscar foxtrot sierra
+dataset/ATCO2/audios/atco2_test-set-1h_LKTB_BRNO_Tower_119_605MHz_20201028_140518-C__000000-000548.wav,oscar kilo whiskey november lima information exprite vacating via bravo and taxi to foxtrot bravo affirm
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_144339-B__000000-000478.wav,radar dobre odpoledne sky travel four three two papa passing nineteen hundred climbing to five thousand
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_144339-A__000496-001132.wav,sky travel four three two papa dobre odpoledne praha radar identified climb flight level one six zero
+dataset/ATCO2/audios/atco2_test-set-1h_LKPR_RUZYNE_Radar_120_520MHz_20201026_144339-B__001132-001424.wav,climb to flight level one six zero sky travel four three two papa
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210415_130657-D__000033-000250.wav,via charlie zulu hotel echo
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210415_130657-A__000294-000769.wav,heli charlie zulu next report zulu one local traffic helicopter on hook mission over chalet
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210422_083102-D__000023-000347.wav,hotel foxtrot oscar echo one at six thousand feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210422_083102-E__000432-000707.wav,foxtrot oscar report echo two for runway two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210419_153441-A__000023-000260.wav,two bravo sierra to the left taxi with
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210421_143604-D__000006-000149.wav,hotel hotel xray go around
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210421_143604-E__000264-000310.wav,hotel xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210415_105647-A__000015-000244.wav,hotel echo xray taxi to juliett parking approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210420_153053-A__000006-000268.wav,hotel bravo three zero four nine sion tower good afternoon
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210422_155828-B__000036-000533.wav,and sion tower the hotel xray quebec we just continue toward the grande dixence
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210422_155828-A__000651-000927.wav,hotel xray quebec roger frequency change approved talk to you later
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210421_083320-A__000022-000155.wav,tango seven charlie lima mike sion
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210423_083403-A__000017-000211.wav,number two looking out for number one hotel hotel
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210415_133129-A__000017-000387.wav,hotel echo xray wind two three zero degrees six knots runway two five cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210423_170457-D__000010-000309.wav,hotel hotel lima november whiskey five thousand five hundred feet climbing
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210421_082534-A__000011-000254.wav,hotel bravo whiskey zulu hotel sion tower report
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210422_093222-D__000012-000174.wav,looking out hotel oscar delta
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210423_101040-A__000010-000215.wav,hotel golf alfa report upon route
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210423_093650-D__000016-000381.wav,sion tower at departure echo two for turn bravo papa zulu
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210422_061925-A__000011-000254.wav,heli charlie zulu roger report ground completed
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210420_142949-D__000007-000220.wav,one zero one two runway two seven bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210415_132357-A__000025-000394.wav,hotel echo xray wind two seven zero degrees five knots runway two five cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210415_131439-A__000016-000259.wav,hotel bravo kilo echo xray exercises is approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210421_083624-A__000014-000219.wav,hotel alfa papa you may leave the frequency bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210423_142801-D__000020-000306.wav,hotel alfa lima echo one four thousand six hundred feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210423_142801-A__000381-000515.wav,hotel delta lima report echo two
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210415_103408-D__000044-000426.wav,report base for runway zero seven or report hotel november
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210415_130947-A__000547-000922.wav,hotel charlie whiskey wind two three zero degrees eight knots runway two five just stop and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210420_065838-A__000011-000190.wav,frequency change approved a toute a l heure
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210420_151758-A__000009-000204.wav,hotel echo xray number one runway two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210423_160618-A__000012-000140.wav,sierra alfa papa sion ground hello
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_060505-A__000014-000412.wav,hotel echo xray wind two six zero nine knots runway two five cleared for touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_060505-D__000429-000618.wav,touch and go runway two five hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_071809-A__000020-000263.wav,foxtrot lima delta join downwind runway two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_071809-D__000306-000587.wav,tourning downwind runway two five foxtrot lima delta
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_070027-A__000004-000252.wav,mosquito six zero echo ready to check
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_150135-B__000013-000227.wav,it was for mosquito one five bravo
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_150135-A__000257-000492.wav,yes mosquito one five bravo are you turning base now
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_150135-B__000534-000706.wav,turning base now mosquito one five bravo
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_150135-A__000744-001198.wav,sie sierra golf kilo stop please hold position sorry sir hold position call you back
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210502_113933-D__000011-000362.wav,yes we are approaching two thousand feet left downwind
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_082722-D__000017-000241.wav,next final two five hotel charlie juliett
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_102003-B__000010-000276.wav,sion tower afternoon established
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_102003-A__000302-000620.wav,nav checker five one one tower hello again report going around
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_092024-A__000045-000277.wav,luxor two two hotel sion bonjour
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_062018-A__000015-000190.wav,hotel echo xray number one report final
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_062018-D__000227-000444.wav,number one report final hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210501_072244-D__000002-000302.wav,hotel echo xray roger taxi holding point bravo and report ready
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_153823-D__000010-000202.wav,roger did you do a planification
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_140302-B__000023-000548.wav,hotel bravo golf kilo echo one four thousand feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_140302-B__000570-000824.wav,golf kilo thank you continue descend report echo two
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_152011-B__000007-000420.wav,nav checker five one one go around climbing five seven thousand feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_152011-A__000420-000752.wav,nav checker five one one roger what is next profile
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151837-D__000014-000287.wav,heli charlie zulu we have the traffic in sight
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151837-A__000323-000584.wav,roger able confirm behind
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_163416-A__000014-000284.wav,hotel papa mike report downwind runway two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_163416-D__000346-000574.wav,roger downwind two five hotel papa mike
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_084629-D__000019-000469.wav,roger hotel foxtrot kilo report whiskey qnh one zero two three
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151916-A__000018-000231.wav,hotel golf kilo you may leave frequency bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_095148-D__000000-000313.wav,tango two one three taxi to parking is approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_161046-D__000014-000420.wav,three four two six joining right hand downwind runway two five grass
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_161046-A__000443-000931.wav,three four two six two five zero degrees one two knots grass two five landing on discretion
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_161046-D__001046-001231.wav,landing on my discretion three four two six
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151530-D__000012-000385.wav,say again can you three by five heli hotel yankee
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151530-A__000409-001039.wav,heli hotel yankee qnh one zero one seven report hotel echo or golf echo at your discretion
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_163635-B__000006-000454.wav,nav checker five one one reporting one thousand ten thousand feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_163635-A__000513-001231.wav,thank you nav checker five one one you can contact geneva delta on frequency one one nine decimal one seven five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_065138-D__000013-000516.wav,sion november seven one six alfa sierra alpine jet ready for taxi
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_065138-A__000598-000850.wav,november alfa sierra taxi to holding point delta
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_065138-D__000905-001196.wav,holding point november seven one six alfa sierra
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_143209-A__000011-000409.wav,limajet two four nine lima copy line up and wait runway two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_143209-B__000461-000719.wav,line up and wait two five lima xray juliett
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_164649-A__000028-000459.wav,hotel echo xray report echo one runway two five qnh one zero one seven
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_164649-D__000524-001121.wav,qnh one zero one seven runway two five wilco hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_061623-A__000007-000221.wav,hotel echo xray final two five for touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210505_140747-D__000009-000254.wav,vista jet four six seven we expect to descend
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_065954-A__000011-000312.wav,november golf papa read back correct report for taxi
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_062238-D__000012-000218.wav,hotel echo xray final two five for touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_164322-A__000011-000254.wav,hotel papa mike perfect thank you very much
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_164322-D__000300-000512.wav,thank you very much hotel papa mike
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_130255-D__000000-000256.wav,sion ground bonjour hotel bravo kilo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_125509-A__000014-000589.wav,hotel bravo papa golf bravo bonjour monsieur report echo one runway two five qnh one zero one nine
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_142105-A__000021-000725.wav,hotel bravo kilo papa echo two one zero degrees four knots runway two five cleared takeoff report november whiskey
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_115427-A__000012-000445.wav,heli hotel yankee wind two four zero degrees one five knots five two two five landing on discretion
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_115427-D__000488-000788.wav,landing on discretion five two two five hotel yankee
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_060829-A__000036-000231.wav,hotel echo xray number one report final
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_060829-D__000252-000524.wav,number one report final hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_102805-A__000015-000364.wav,nav checker five one one report passing one three thousand feet and climb
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_102805-B__000396-000458.wav,wilco
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_130418-D__000009-000252.wav,hotel golf bravo straight in two five number one
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_132913-A__000010-000250.wav,b air nine five one stand by call you back
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_163156-D__000019-000176.wav,affirm nav checker five papa one
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_163156-E__000176-000246.wav,roger
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_164140-A__000039-000404.wav,papa mike vacate to the left and then straight ahead until further advised
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_164140-D__000472-000787.wav,the left and then straight ahead hotel papa mike
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_062720-A__000031-000429.wav,tango three six five sion tower good morning air taxi holding point
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_062720-A__000607-000856.wav,golf runway zero seven qnh one zero one eight
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_062720-D__000968-001491.wav,instruction golf runway zero seven qnh one zero one eight tango three six five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_110845-B__000007-000252.wav,passing one three thousand seven eight five two eight
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_110845-A__000309-000737.wav,swiss air force five two eight contact swiss radar one two four decimal two two five good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_110845-B__000785-001137.wav,one two four two two five air force five two eight aurevoir
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210505_133612-B__000018-000324.wav,one two four decimal two two five b air nine five one good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_153923-A__000117-000774.wav,foxtrot delta uniform report november whiskey wind two seven zero degrees one zero knots runway two five cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_153923-B__000835-001364.wav,cleared for takeoff two five foxtrot delta uniform thanks november whiskey
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_051653-D__000017-000483.wav,departure own discretion two five next zero seven sorry for leaving heli hotel yankee
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_063202-D__000032-000567.wav,tango three six five entering val d heren four thousand three hundred feet climbing qnh one zero one seven six
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_130604-B__000015-000259.wav,affirmation nav checker five one one good afternoon
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_130604-A__000326-000468.wav,nav checker five one one hello
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_062014-A__000004-000247.wav,hotel echo xray downwind two five for touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_130423-B__000011-000311.wav,hotel golf bravo is echo two at three thousand three hundred feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_130423-A__000331-000516.wav,golf bravo straight in two five number one
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_130423-B__000516-000739.wav,number one golf bravo
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_061429-A__000003-000231.wav,hotel echo xray downwind two five for touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_162039-A__000007-000293.wav,hotel hotel victor taxi is approved thank you sir bonne soiree
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_142013-A__000000-000206.wav,charlie zulu direction montana confirm
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_142013-__000219-000377.wav,affirmatif montana
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_142013-A__000405-001058.wav,merci two two zero degrees three knots four two zero seven qnh one zero one eight departure own discretion crossing climbing montana is approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_143715-A__000009-000802.wav,lima mike juliett two four nine lima climb flight level one four zero maintain contact geneva arrival one three six two five five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_143715-A__001527-001639.wav,merci au plaisir aurevoir
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_140831-A__000000-000227.wav,no sorry you have to refound the flight plan sir
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_140831-D__000284-000716.wav,ok we won t see company quickly to refound no problem technic
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_160018-A__000009-000211.wav,four two six redue two by five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_052351-A__000007-000528.wav,runway two five call you passing one three thousand feet five thank you
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_122439-A__000009-000480.wav,hotel echo xray wind two five zero degrees one eight knots runway two five cleared touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_122439-D__000532-000776.wav,runway two five cleared touch and go hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_083922-A__000012-000208.wav,thank you qnh is one zero two three
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_164237-A__000028-000848.wav,papa mike parking is tango one zero but it is with the knots facing to the east so if able make one eighty and to park back at parking one zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_121507-A__000017-000591.wav,november hotel juliett the preceding traffic is joining downwind wind one correction two six zero degrees
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_121507-A__000592-001074.wav,one nine knots runway two five cleared for takeoff report passing one three thousand feet and climb
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_112213-D__000008-000248.wav,report on final bramois hotel yankee
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_065626-A__000009-000180.wav,echo xray number one report final
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_065626-D__000204-000437.wav,number one report final hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_130038-A__000009-000175.wav,three five five you may leave frequency a toute
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_130038-D__000183-000291.wav,a toute three five five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_152021-B__000019-000252.wav,next is bravo nav checker five one one
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_152021-A__000271-000690.wav,nav checker five one one roger qnh one zero one seven reported in and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_141714-D__000017-000252.wav,tango three six six final runway two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_141714-A__000273-000404.wav,thank you sir continue approach
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_141714-D__000465-000708.wav,continue approach tango three six six
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_080828-A__000007-000434.wav,hotel lima tango roger standby i coordinate with military sector
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_065520-A__000018-000661.wav,november alfa sierra wind two five zero degrees nine knots runway two five cleared for takeoff report one three thousand feet climbing
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_144924-A__000037-000930.wav,sion tower good afternoon helicopter hotel bravo zulu yes india juliett is passing india ready for departure five two two five and then left turn and climbing direction vernayaz
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_100959-A__000032-000486.wav,nav checker five one one report passing one three thousand feet and climb four one seven thousand feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_100959-B__000529-000997.wav,wilco nav checker climbing one seven thousand will report
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_071049-D__000028-000557.wav,sion tower bonjour b air nine five now establish on the ils runway two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_065622-A__000016-000312.wav,hotel echo xray descending two five for full stop
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_145500-B__000008-000720.wav,passing one thousand one zero thousand feet in descent in the western sector mosquito one five bravo
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_145500-A__000747-001233.wav,mosquito one five bravo correct and keep an eyes for glider activity north of the field
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151946-A__000012-000584.wav,heli charlie zulu wind two seven zero degrees nine knots crossing runway access five two two five landing on discretion
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151946-D__000640-001053.wav,crossing to landing five two two five landing on discretion heli charlie zulu
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_105917-A__000003-000215.wav,tango three three five frequency change approved good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_105917-D__000272-000371.wav,good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_070235-A__000013-000301.wav,foxtrot lima delta taxi to holding point bravo runway two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_070235-D__000313-000591.wav,point bravo runway two five foxtrot lima delta
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210505_132607-D__000040-000210.wav,helicopter heli victor oscar good afternoon
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210505_132607-A__000231-000337.wav,victor oscar good afternoon
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210502_065945-D__000012-000312.wav,we are not ready now foxtrot lima delta
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_082715-A__000005-000540.wav,hotel charlie juliett you passed echo two continue for direct approach as number one report final two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210503_082715-D__000606-000907.wav,next final two five hotel charlie juliett
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_142343-A__000037-000200.wav,vista jet four six seven sion
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_142343-B__000258-000347.wav,go ahead
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_064029-A__000016-000233.wav,hotel echo xray final two five for touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_065812-A__000005-000523.wav,foxtrot lima delta hold position and make your run up at your present position qnh one zero one five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_162417-B__000017-000258.wav,nav checker five one one established
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_162417-A__000304-000696.wav,nav checker five one one five one one thank you report one zero miles
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_162417-B__000753-001052.wav,reported one zero miles nav checker five one one
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_150149-A__000015-000522.wav,break break mosquito one five bravo two five zero degrees one zero knots runway two five cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_150149-B__000590-000796.wav,cleared to land runway two five mosquito one five bravo
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_062127-A__000020-000158.wav,india lima you may leave a toute
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_142210-D__000007-000193.wav,thank you very much hotel golf kilo
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210501_073256-A__000027-000384.wav,hotel echo xray wind calm runway two five cleared touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210501_073256-D__000430-000649.wav,runway two five cleared touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210501_073256-D__000674-000809.wav,hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151822-A__000028-000252.wav,heli charlie zulu report position altitude
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151822-D__000305-000615.wav,le golf de montana three thousand two hundred
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151822-A__000644-001313.wav,roger the traffic is now just exactly in the middle between echo one echo two four thousand six hundred feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_155803-D__000015-000376.wav,bravo juliett tango alfa holding point delta two five we are fully ready
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_155803-A__000429-001032.wav,hotel tango alfa report passing one three thousand feet wind two six zero degrees one zero knots runway two five cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_155803-D__001065-001476.wav,cleared takeoff two five next report the one three thousand feet hotel tango alfa
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_081913-A__000006-000265.wav,charlie papa to confirm you proceed to chermignon
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_083741-A__000012-000762.wav,foxtrot lima delta sion bonjour qnh one zero two three wind calm runway two five cleared for takeoff report november whiskey
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_061433-A__000011-000216.wav,hotel echo xray number one report final
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_061433-B__000225-000523.wav,number one report final hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_145713-D__000019-000281.wav,nine juliett lima three miles final departure
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_145713-A__000319-000793.wav,nine juliett lima wind two four zero degrees one seven knots runway two five cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_145713-D__000843-001050.wav,runway two five cleared to land nine juliett lima
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_081644-D__000008-000275.wav,clouds four hundred feet for landing
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_143351-B__000004-000791.wav,takeoff runway two five seven miles from sion maximum one one thousand feet vista jet four six seven
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_143351-A__000800-000906.wav,vista jet four six seven
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_070942-A__000012-000247.wav,tango three one three sion ground hello again taxi approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_065831-A__000039-000491.wav,hotel echo xray wind two six zero degrees one zero knots runway two five cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_065831-D__000545-000802.wav,cleared to land runway two five hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_060221-A__000019-000185.wav,takeoff sierra number one
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_060221-D__000277-000418.wav,number one hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_065407-A__000010-000273.wav,november alfa sierra line up runway two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_152953-D__000014-000749.wav,hello tower helicopter india juliett hello again we are descending croix de coeur six thousand feet six thousand eight hundred feet descend to left five two
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_152953-A__000749-001131.wav,india juliett report hotel sierra or golf sierra qnh one zero one seven
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_155421-A__000007-000213.wav,nav checker five one one good afternoon
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_155421-B__000268-001216.wav,nav checker five one one we are on the way to your airfield and i would like to know what is the actual ground base you have in your area
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_152026-A__000025-000608.wav,uniform golf wind two four zero degrees one four knots runway two five clear takeoff right turn out climb approved report leaving
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_152026-D__000664-001009.wav,cleared to takeoff right turn out and report leaving uniform golf
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_060824-A__000059-000315.wav,hotel echo xray downwind two five for touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_153902-A__000061-000551.wav,foxtrot delta uniform line up and wait via intersection alfa qnh one zero one seven
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_164218-B__000003-000156.wav,lufthansa mike which parking
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_164218-A__000189-000834.wav,lufthansa mike continue for what two zero meters and then will be first a yellow light to the right
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_134316-A__000007-000180.wav,three five tango hotel alfa whiskey
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_134548-A__000016-000337.wav,ok approximately fifteen minutes before starting thank you
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_132136-A__000011-000480.wav,b air nine five one startup approved runway two five qnh one zero one two report ready for taxi
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210505_132136-B__000545-000959.wav,approved qnh one zero one two report ready for taxi b air nine five two
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_123002-A__000008-000270.wav,hotel echo xray recleared full stop landing runway two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_123002-D__000300-000547.wav,recleared full stop runway two five echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210501_065354-A__000018-000449.wav,hotel echo xray report downwind wind calm runway two five cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_164016-A__000014-000451.wav,hotel papa mike one speed visual control make one eighteen backtrack to vacate at alfa
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_062628-A__000010-000236.wav,hotel echo xray number one report final
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_062628-D__000276-000482.wav,number one report final hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_155852-B__000000-000206.wav,we have the traffic in sight nav checker five one one
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_155852-A__000257-000290.wav,roger
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_145810-B__000006-000364.wav,when passing ten thousand feet to four thousand feet mosquito one five bravo
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_145810-A__000388-000497.wav,one five bravo thank you
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210504_061821-A__000011-000276.wav,heli oscar zulu frequency change approved schone
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210504_061821-D__000308-000446.wav,beste schone heli oscar zulu
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151058-B__000005-000186.wav,taxi going around nav checker five one one
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_152004-D__000007-000374.wav,charlie zulu seaching hotel sierra for landing fato two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_152004-A__000409-000840.wav,charlie zulu wind two five which is at one four knots fato two five landing on discretion
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_152004-D__000911-001175.wav,landing on discretion fato two five charlie zulu
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_065945-D__000009-000239.wav,we are not ready now foxtrot lima delta
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Tower_118_3MHz_20210505_105333-A__000009-000200.wav,roger station calling please pass your message
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210501_060848-D__000000-000702.wav,sion victor oscar hook mission completed now landing victor call you before departure
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210501_060848-A__000730-000934.wav,victor oscar roger talk to you later
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210501_060848-D__000961-001014.wav,thank you
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_161854-A__000000-000239.wav,helicopter tango oscar you may leave the frequency bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_161854-D__000289-000444.wav,tango oscar leave the frequency bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_161854-A__000496-000704.wav,nav checker five one one further climb is approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_161854-C__000748-000969.wav,further climb approved again nav checker five one one
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_101442-A__000000-000575.wav,nav checker five one one contact sion approach one two six decimal eight two five talk to you later
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_101442-B__000628-000988.wav,one two six eight two five talk to you later nav checker five one one
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_134810-A__000028-000180.wav,delta whiskey
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_134810-A__000206-000570.wav,wind two five zero degrees two two knots runway two five cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_134810-D__000619-000779.wav,cleared to land hotel delta whiskey
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151517-D__000026-000596.wav,hotel yankee saint martin six five thousand feet for landing fato
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_151517-A__000648-001061.wav,heli hotel yankee report hotel echo golf echo qnh one zero one seven
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_065614-D__000041-000750.wav,sion heli hotel bravo zulu charlie zulu we just upon val d annivier low altitude for hook mission established for one low altitude
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_062134-A__000007-000391.wav,hotel hotel yankee wind calm fato two five landing own discretion
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_071945-A__000012-000946.wav,tango three six five sion tower hello qhn one zero two three report hotel november runway two five in use
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_071945-B__001000-001422.wav,sion two three runway two five next hotel november for three six five
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_073058-A__000037-000484.wav,foxtrot lima delta wind two five zero degrees one two knots runway two five cleared touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_114312-A__000019-000618.wav,november hotel juliett vacate next left intersection golf and then taxi to holding point delta
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_051736-A__000014-000309.wav,read back correct startup is approved qnh one zero one four
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_125034-D__000071-000480.wav,tango three one three col du sallest at eight thousand feet requested change
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_125034-A__000523-000746.wav,c est rentre you may leave frequency merci bonne soiree
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210504_125034-D__000815-001158.wav,leaving merci a toi et bonne soiree tango three one three
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210501_073043-A__000009-000168.wav,hotel echo xray number one
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210501_073043-D__000262-000412.wav,number one hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_082408-B__000015-000714.wav,hotel bravo kilo charlie juliett echo one five thousand and eight four thousand eight hundred feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_082408-A__000798-001007.wav,hello charlie juliett next report echo two
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_063447-A__000006-000423.wav,hotel echo xray wind two six degrees nine knots runway two five cleared for touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210502_063447-D__000444-000700.wav,cleared for touch and go runway two five hotel echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSGS_SION_Ground_Control_121_7MHz_20210503_164624-D__000010-000318.wav,sion tower hotel bravo kilo echo xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_144653-A__000000-001136.wav,hotel quebec juliett traffic piper single engine position three miles south of your position proceeding towards willisau four thousand feet indicating not verified
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_114456-B__000000-000810.wav,berne tower hello again helicopter hotel bravo zulu whiskey juliett uttigen two thousand three hundred
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_114456-A__000810-001384.wav,hotel bravo zulu whiskey juliett berne tower hello again enter control zone via route zulu qnh one zero two seven
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_110527-B__000003-000293.wav,hotel golf papa leaving ctr direction november
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_110527-A__000293-000497.wav,hotel golf papa frequency change approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_140554-A__000000-000376.wav,hotel yankee xray make one orbit to the left report completed
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_132353-A__000000-001451.wav,hotel bravo kilo golf november berne tower hello qnh one zero two seven enter via route zulu runway three two in use traffic rega helicopter just abeam gerzensee leaving direction thun indicating four thousand five hundred feet not verified opposite
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_125843-A__000000-000401.wav,hotel golf papa make a one eighty stay clear of the runway taxi to holding point foxtrot
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_093520-A__000000-000578.wav,hotel golf delta wind zero four zero degrees seven knots runway one four cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_123724-A__000000-000649.wav,hotel golf oscar wind zero seven zero degrees one zero knots runway one four cleared touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_124225-A__000000-000433.wav,hotel golf oscar number two number one short final runway one four
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_132431-B__000000-000633.wav,we have the traffic in sight rega one zero we leave the control zone schone namittag
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_132431-A__000633-000849.wav,rega one zero frequency change approved schone nami
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_120016-A__000012-000505.wav,hotel november xray ninety five crossing is approved qnh one zero two two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210414_134643-A__000014-000374.wav,delta oscar victoria you are still on the bern arrival frequency
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210416_082152-A__000035-000575.wav,hotel golf papa continue on the runway vacate via charlie then taxi your discretion blue sector
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210425_162033-A__000021-000808.wav,hotel delta lima via bravo then taxi your discretion blue sector if it is full green four is available
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_170152-D__000013-000798.wav,oscar oscar papa charlie kilo it s for ifr fly to echo bravo charlie india we have information delta it is for startup and ifr clearance
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210415_134139-A__000243-000747.wav,sierra november expect landing clearance shortly traffic on the runways departing three top on to the west
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_165415-A__000024-000682.wav,hotel bravo november bravo hotel crossing direction grenchen four thousand five hundred feet is approved qnh one zero two six
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_132952-A__000056-000468.wav,thank you break break hotel golf oscar helicopter on your right hand side we will cross behind you
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_132952-D__000505-000638.wav,hotel golf oscar
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210415_130747-A__000625-001150.wav,hotel bravo kilo golf yankee from november good afternoon next report breaking off a city circling three two one
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210416_083545-A__000054-000468.wav,heli oscar bravo are you ready for expedition crossing otherwise you have to hold on
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210414_072005-D__000006-000517.wav,departure with hotel bravo charlie quebec sierra out of five thousand four eight zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210414_072005-A__000561-001046.wav,hotel bravo charlie quebec sierra when departure low defined climb to flight level nine zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210415_124802-D__000019-000791.wav,hotel golf oscar lift control lima route sierra wind zero four zero degrees one three knots runway three two cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210423_123112-A__000030-000542.wav,hotel golf oscar charlie wait to proceed at least one miles out of track
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_073805-A__000009-000364.wav,hotel hotel golf next left via delta to blue sector
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_094938-D__000013-000149.wav,say again heli lima juliett
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_094938-A__000168-000977.wav,heli lima juliett join mid left heli circuit three two land at own discretion swiss helicopter wind zero four zero degrees one zero knots
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_132821-A__000000-000484.wav,hotel kilo delta now to whiskey one is approved if you remain outside romeo eight two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_075638-A__000041-000364.wav,hotel golf papa is calling confirm
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_075638-A__000977-001135.wav,ja that is copied roger hold position
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_124002-B__000016-000657.wav,takeoff golf oscar upwind two thousand one hundred feet request left hand circuit runway zero six for another and last touch and go
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_124002-A__000708-001048.wav,hotel golf oscar make left hand circuit is approved runway one four
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210414_160756-A__000037-000676.wav,hotel bravo juliett leave out on route whiskey wind zero three zero degrees one zero knots runway three two cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210415_122910-D__000007-000361.wav,heli india echo hotel whiskey three thousand six hundred feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210415_122910-A__000451-000909.wav,heli india echo land on discretion swiss helicopter wind zero seven zero degrees six knots
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_103222-A__000008-000480.wav,hotel golf november wind zero six zero degrees nine knots runway one four cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210425_112657-A__000000-000622.wav,hotel oscar yankee any time direct lyss approved traffic rescue helicopter passing muhleberg inbound to inselspital
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210425_112657-B__000624-001303.wav,proceeding direct to lyss hotel oscar yankee and looking out for helicopter near inselspital
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_090122-A__000861-000951.wav,one point zero standby
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_090122-A__000973-001355.wav,delta alfa uniform the field is at your two o clock position four miles confirm in sight
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_090122-B__001376-001664.wav,affirm we descend flight and we are ready for visual delta alfa uniform
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_090122-A__001692-002143.wav,delta alfa uniform further descend at your discretion cleared visual approach runway three two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_090122-B__002171-002391.wav,cleared for visual approach three two delta alfa uniform
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_090122-A__002399-002815.wav,delta alfa uniform radar service terminated contact tower one two one decimal zero two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_090122-B__002817-003185.wav,radar terminates and one two one zero two five bis spater delta alfa uniform
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_090122-A__003215-003249.wav,good night
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_082532-A__000023-000405.wav,hotel bravo sierra charlie tango bern tower hello taxi via kilo to terminal north
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_144903-B__000014-000852.wav,bern tower hello again hotel bravo kilo golf november zulu five thousand feet descending information charlie for landing by route zulu
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_144903-A__000875-001537.wav,hotel bravo kilo golf november bern tower qnh one zero two six and arrival route zulu to join final runway three two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210418_152915-A__000006-000270.wav,hotel november lima for the time being remain on this frequency
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_151418-D__000023-000580.wav,hotel whiskey echo now three thousand two hundred feet and leave the command for seven thousand frequency change approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_063449-D__000028-000345.wav,hotel whiskey alfa taxi to holding point bravo runway one four
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210415_125054-D__000005-000670.wav,yeah of course than you can expect vfr circuits after touch and go report taking off romeo circling
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_124320-A__000008-000755.wav,hotel bravo sierra golf romeo bern tower into control by route november join mid left downwind runway one four qnh one zero two seven
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_160311-B__000012-000250.wav,bern approach hotel bravo kilo bravo victor
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_160311-A__000254-000390.wav,kilo bravo victor bern
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_102305-A__000013-000646.wav,hotel golf sierra can offer you only one touch and go then upon route whiskey due to it s launch time there are no circuits approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210425_115720-B__000000-000337.wav,heli whiskey charlie hotel echo three thousand feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210425_115720-A__000340-000420.wav,heli whiskey charlie
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_084747-A__000009-000339.wav,hotel india alfa until four miles maintain one hundred knots or greater
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210424_180809-D__000013-000390.wav,hotel oscar yankee request orbit to the right for spacing
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210424_180809-A__000425-000606.wav,hotel oscar yankee orbit right approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210414_122417-A__000028-000664.wav,hotel tango uniform do you intend to cancelled the ifr flight before fribourg
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210414_090744-D__000007-000423.wav,swiss radar one three five six eight zero next seven five zero eight bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_072026-A__000009-000661.wav,hotel bravo papa november lima this bern tower contact thun on one two three decimal two five five
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210414_155314-D__000009-000662.wav,hotel echo lima frequency change approved thank you good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210415_123557-D__000428-000957.wav,heli charlie papa traffic landing aircraft soon departing runway three two air bound route echo opposite
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210414_061440-A__000000-000376.wav,quadriga one six three foxtrot descend to flight level seven zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210419_092415-B__000000-000176.wav,roger hotel golf papa
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210419_092415-A__000181-000422.wav,hotel golf papa frequency change approved good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210419_092415-B__000422-000660.wav,ok good bye hotel golf papa
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_162817-A__000000-000337.wav,hotel oscar qnh one zero three taxi three two intersection foxtrot
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_093450-A__000008-000380.wav,tango three three one number one is now on the right base
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_130024-A__000000-000388.wav,hotel golf yankee rodger clearance after touch and go is available
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210413_161203-A__000000-000413.wav,november mike alfa roger and you are recleared straight in ils approach one four
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_081657-A__000000-000875.wav,hotel echo echo please control zone via route zulu wind zero four zero degrees seven knots runway one four cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_133125-A__000000-000484.wav,hotel golf sierra roger i understood one touch and go than one circuit again touch and go then whiskey
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210418_083338-B__000000-000484.wav,papa foxtrot approaching bern city request to make an orbid over the bundeshaus
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210418_083338-A__000484-000636.wav,papa foxtrot that is approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210418_083338-B__000636-000846.wav,orbit approved hotel papa foxtrot
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_092138-A__000000-000600.wav,hotel golf november wind zero one zero degrees one zero knots runway one four cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_095230-A__000000-000433.wav,november mike alfa vectoring for a short approach turn left heading two four zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210413_112637-A__000000-000651.wav,fraction five seven six hotel descend to four thousand feet cleared arp approach runway one four report airborne track established
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_073411-A__000000-000313.wav,hotel quebec mike i confirm cleared to land runway one four
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210414_160746-B__000011-000472.wav,we will taxi to sector blue when ready hotel charlie november
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210413_161649-A__000003-000509.wav,november mike alfa vacate via charlie and how long do you stay
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_103845-A__000005-000473.wav,roger bravo three zero four three affirm climb maximum five thousand five hundred feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210424_150535-A__000007-000497.wav,hotel golf echo do you want to stay at level one hundred or are you able to descend
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210425_084853-B__000000-000276.wav,hotel charlie papa below flight level one hundred
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210425_084853-A__000276-000583.wav,hotel charlie papa frequency change approved bis spater
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_173338-B__000000-000886.wav,startup approved runway one two qnh one zero two one to destination morning three zero departure flight level one hundred and squawk one thousand swiss air force zero four two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_173338-A__000902-001103.wav,swiss air force zero four two read back correct
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210414_161919-A__000000-000363.wav,hotel golf november on downwind runway three two to full stop
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_141529-A__000000-000389.wav,hotel yankee xray wind zero three zero degrees eight knots runway three two cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_141529-B__000407-000708.wav,runway three two clear to land hotel xray
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_125328-A__000000-000612.wav,heli oscar alfa traffic wise the runway three two is available but the wind is one zero zero degrees with one zero knots
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_112156-A__000000-000587.wav,hotel victor bravo roger behind traffic on final backtrack runway one four behind
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_142653-A__000000-000574.wav,delta papa delta roger identified the crossing is approved qnh one zero two one
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_061750-B__000000-001233.wav,tower bern hotel bravo kilo golf november blue parking vfr local as plan route whiskey information november request taxi
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210415_140747-B__000000-000299.wav,hotel papa golf turning base runway three two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210415_140747-A__000316-000756.wav,hotel papa golf wind zero four zero degrees eight knots runway three two cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210415_140747-B__000770-000971.wav,three two cleared to land hotel papa golf
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_111807-A__000000-000640.wav,hotel bravo lima victor bravo bern tower hello taxi to holding point bravo runway one four qnh one zero two seven
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210420_090959-B__000000-000250.wav,hotel hotel bravo seven thousand feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210420_090959-A__000250-000401.wav,hotel hotel bravo thank you
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_132458-A__000000-000420.wav,tango three one eight roger you can already change frequency have a nice day
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210415_134749-B__000000-000618.wav,hotel oscar foxtrot whiskey four thousand five hundred feet request to leave frequency
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210415_134749-A__000622-000849.wav,hotel oscar foxtrot frequency change approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_145507-A__000000-000459.wav,hotel echo lima affirm remain on my frequency you are still within the tma
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_095907-A__000000-001348.wav,hotel bravo charlie juliett bern tower traffic single engined just departed runway one four outbound route sierra opposite and to compose my route sierra to join right downwind runway one four qnh one zero two seven
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_152428-A__000000-000324.wav,oscar charlie kilo descend to five thousand feet qnh one zero two one
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_073916-A__000000-000696.wav,sun turk quebec sierra descend to flight level seven zero expect clearance four airwork about three miles before oskup
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_063757-A__000000-000364.wav,hotel whiskey alfa wind is calm runway one four cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_132948-B__000000-000334.wav,hotel golf yankee we appreciate the shortcut
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_132948-A__000342-000587.wav,hotel golf yankee roger report your program in bern
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210421_165346-B__000000-000343.wav,hotel delta lima runway vacated on delta
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210421_165346-A__000355-000512.wav,roger taxi to blue parking
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210421_165346-B__000541-000760.wav,blue parking hotel delta lima
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_094052-A__000000-000574.wav,hotel golf oscar wind check zero two zero degrees one one knots can you still accept one four
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210420_062521-A__000000-000839.wav,hotel golf papa number two number one is the company on now left hand base and still two helicopters low altitude over the city
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210420_062521-B__000851-001387.wav,looking up for helicopter and number one not in sight at the moment and a number two papa golf papa
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_133435-A__000000-000651.wav,hotel golf sierra after echo one join right hand base runway three two as number one and expect left hand circuit
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210413_160609-A__000000-000446.wav,november mike alfa expect the ils one four with romeo circling to runway three two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210418_185745-A__000000-000401.wav,hotel lima sierra during night time visual departure is not possible
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210414_064609-A__000000-000664.wav,hotel romeo oscar roger crossing direction echo at four thousand feet is approved qnh bern one zero two five
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_090549-A__000000-000523.wav,papa golf yankee descend to four thousand feet cleared rnp approach one four report established final course
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210425_074052-A__000000-000664.wav,hotel delta charlie advise traffic is now clear of you and frequency change approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210416_072155-A__000000-000900.wav,riga quebec lima traffic single engine at your ten o clock position four miles crossing from left to right at five thousand five hundred feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210419_091544-A__000000-000350.wav,hotel quebec yankee crossing completed frequency change approved good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210414_182516-A__000000-000561.wav,hotel bravo juliett wind zero four zero degrees six knots runway three two cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210418_114748-A__000352-000664.wav,hotel golf papa frequency change approved bis spater ciao
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210420_090730-B__000000-000192.wav,number one in sight hotel golf oscar
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210420_090730-A__000196-000523.wav,golf oscar roger turn base behind he will do a go around over threshold
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_082145-A__000000-000388.wav,hotel kilo delta the advised traffic is now over whiskey one
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210423_081639-A__000012-000646.wav,hotel golf oscar traffic rega helicopter just passed hotel echo joining the left hand heli circuit direction one four
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210423_081639-B__000660-000996.wav,helicopter in sight shall we proceed normally hotel golf oscar
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210420_122956-A__000298-000785.wav,hotel golf oscar at mid downwind make an orbit to the left report completed
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_083144-A__000000-000312.wav,hotel hotel oscar roger say again the number of the glider
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210422_140356-A__000000-000548.wav,hotel bravo zulu sierra november berne tower enter via route hotel whiskey qnh one zero one eight
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210421_094113-A__000000-000705.wav,hotel golf papa unknown vfr traffic a helicopter at your eleven o clock position two miles same altitude opposite direction
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210423_130638-B__000000-000227.wav,long approach hotel papa bravo
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210423_130638-A__000227-000433.wav,hotel mike november line up in sequence
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210420_125136-A__000000-000649.wav,hotel bravo zulu oscar bravo berne tower enter control zone via route whiskey and say your program again
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210421_115837-B__000000-000229.wav,hotel charlie quebec breaking off to the left
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210421_115837-A__000243-000400.wav,hotel charlie quebec roger
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_130512-A__000000-000721.wav,hotel bravo juliett traffic a husky is approaching gerzensee right now behind you and same direction
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210421_162453-A__000000-000401.wav,hotel bravo sierra charlie papa berne tower is it for startup or for taxi
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210423_091530-D__000000-000204.wav,zulu sierra go ahead
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210423_091530-A__000204-000472.wav,are you aware that you are now inside the ctr of berne
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210421_123703-B__000000-000180.wav,we have the traffic in sight as well hotel hotel oscar
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210421_123703-A__000180-000324.wav,hotel hotel oscar
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_151756-B__000000-000300.wav,frequency change approved bye bye have a nice evening hotel quebec mike
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_065548-A__000000-000484.wav,hotel whiskey echo for the time being not available i will call you back
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210423_071332-B__000000-000169.wav,number one in sight hotel whiskey echo
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210423_071332-A__000186-000401.wav,hotel whiskey echo thank you follow behind
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_084133-A__000000-000523.wav,hotel bravo charlie golf india taxi to blue station to fuel station approved from blue parking
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210423_060534-A__000000-000971.wav,heli tango whiskey negative it s fine if you want you can monitor the frequency but it s up to you if you stay outside of ctr all the time
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210419_090344-B__000000-000250.wav,hotel bravo tango echo echo leaving ctr
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210419_090344-A__000283-000548.wav,hotel echo echo frequency change approved good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_164323-D__000127-000259.wav,one second
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_164323-A__000293-000822.wav,sure no worries it is fine for me but just for the next time then maybe not get a confusion
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_164323-D__000822-000897.wav,ok
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210424_074539-A__000000-000798.wav,hotel golf november zimi is not available anymore romeo eight two is now active do you want to proceed to sava instead
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210419_124328-A__000000-000676.wav,roger break break heli delta quebec after hotel whiskey cross via berne city then hotel echo
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_141321-A__000000-001219.wav,delta charlie kilo victor india tower hello qnh one zero two seven startup approved runway three two cleared destination malta via the mebox three bravo departure
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_141321-A__001258-001976.wav,zulu one four one transition climb initially five thousand feet squawk two seven six zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Tower_121_0MHz_20210413_161649-A__000000-000497.wav,november mike alfa vacate via charlie and how long do you stay
+dataset/ATCO2/audios/atco2_test-set-1h_LSZB_BERN_Approach_127_3MHz_20210415_125332-A__000000-000548.wav,hotel hotel lima echo we are at dme approach runway two four circling zero six report established
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_123120-A__000069-000587.wav,hotel india victor after whiskey two join wide right base runway one zero number one
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronN_121_85MHz_20210414_081643-A__000007-000263.wav,turkish two seven xray tower one one eight one bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_163659-A__000000-000455.wav,europa nine four kilo mike contact ground one two one decimal nine zero five good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_100142-A__000028-000380.wav,alitalia five seven one apron hello push back and startup is approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_151208-A__000186-000785.wav,bravo kilo hotel romeo tower grutzli say again taxiway kilo cross runway two eight and contact apron one two one decimal seven five five
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210416_133803-A__000080-000346.wav,hotel bravo sierra delta foxtrot tower hello line up runway one zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_114326-A__000007-000684.wav,vista jet four three seven turn left via taxiway alfa echo six hold short runway one six
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_161248-A__000257-000605.wav,swiss two zero six seven contact apron one two one decimal eight five five
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_161248-B__000610-000934.wav,one two one decimal eight five five swiss two zero six seven
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_133203-A__000000-000483.wav,emirates eight eight wind zero four zero three is nine knots runway one zero cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_133203-B__000483-000794.wav,cleared for takeoff one zero emirates eight eight
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_205041-A__000014-000509.wav,swiss ambulance six one wind zero three zero degrees four knots runway three two cleared takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_205041-B__000540-000809.wav,hi three two cleared takeoff swiss ambulance six one
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_101140-A__000010-000529.wav,alitalia five seven one zero seven zero three one two knots runway one zero cleared to takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_095149-A__000056-000372.wav,hotel india victor whiskey three thousand five hundred feet
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_095149-B__000413-000552.wav,hotel india victor danke
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_095157-A__000018-000476.wav,klm nine four foxtrot on echo seven hold short of runway one six
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_170759-A__000007-000450.wav,swiss one zero seven six taxi via link three echo seven hold short of runway one six
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_194406-A__000011-000365.wav,fraction two five zero foxtrot descend flight level nine zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_083710-B__000016-000488.wav,tower guten morgen swiss one nine seven heavy rnp one four established
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_083710-A__000532-001519.wav,swiss one nine seven tower guten morgen wind zero eight zero degrees one two knots gusting one nine runway one four cleared to land vacate hotel two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_160339-A__000000-000433.wav,i guess six three zero taxi via november echo seven hold short of runway one six
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_080433-A__000028-000343.wav,hotel bravo charlie hotel xray grutzli hold position call you back
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210413_151347-A__000009-000362.wav,delta india victor contact apron one two one decimal seven five five tschuss
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_055559-A__000034-000425.wav,singapore three four six contact apron one two one decimal eight five five
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_161648-A__000038-000609.wav,finn air five delta lima vacated own discretion wind one four zero degrees five knots runway one four cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210413_040538-A__000081-000471.wav,swiss two eight nine the wind three two zero degrees three knots runway one four you are cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210424_080552-B__000000-000284.wav,zurich tower hotel bravo papa oscar echo
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210424_080552-A__000284-000612.wav,hotel bravo papa oscar echo zurich tower go ahead
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_181316-A__000035-000420.wav,lot four two zero contact ground one two one decimal nine zero five good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_080706-A__000000-000734.wav,turkish six foxtrot lima is in hello taxi second right via inner foxtrot and mike to stand bravo three two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronN_121_85MHz_20210414_124259-B__000015-000426.wav,ground hello royal air maroc three five two stand echo four six fully ready
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_080622-A__000381-001060.wav,foxtrot lima hello again taxiway juliett cross runway two eight contact apron one two one decimal seven five five good day
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_080622-B__001096-001784.wav,taxiway juliett cross runway two eight after crossing one two one seven five five turkish six foxtrot lima
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_080622-A__001802-001898.wav,thank you
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_112229-C__000000-000625.wav,two hundred turkish six three two nine wind zero seven zero degrees one three gusting two zero knots runway one
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronN_121_85MHz_20210414_064241-A__000024-000438.wav,oscar charlie kilo contact tower one one eight decimal one good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_160105-A__000000-000665.wav,hotel yankee hotel wind zero four zero degrees one one knots runway one zero cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_160105-B__000665-000968.wav,runway one zero cleared to land hotel yankee hotel
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_140139-A__000000-000750.wav,hotel whiskey whiskey affirm vacate next right into taxi way hotel two and contact apron one two one decimal eight five five
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_153211-A__000014-000304.wav,vista jet four nine two no landing vacated own discretion
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_064502-A__000000-000468.wav,oscar charlie kilo contact departure one two five decimal nine five five good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_064502-B__000468-000730.wav,one two five nine five five oscar papa charlie kilo
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_085932-A__000012-000474.wav,air nostrum eight zero quebec yankee contact apron one two one decimal eight five five
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_102855-A__000000-000523.wav,dagobert one five five three roger are you able to depart from intersection echo
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210416_130649-D__000017-000651.wav,hotel bravo papa hotel delta unknown vfr traffic without altitude indications twelve o clock two miles crossing left to right
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_085600-G__000378-000948.wav,air nostrum eight zero quebec yankee tower hello wind zero seven zero degrees right zero nine runway one four cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_153107-A__000013-000830.wav,swiss air force five two one tower grutzi and runway three four and taxi left via lima holding point runway one zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_092130-A__000000-000536.wav,turkish three whiskey quebec taxi via echo and echo seven hold short of runway one six
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Ground_121_905MHz_20210414_041339-B__000000-000180.wav,echo one charlie go ahead
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Ground_121_905MHz_20210414_041339-A__000180-001150.wav,echo one charlie cleared to madrid runway three two ready three november climb five thousand feet squawk three zero zero two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210424_064001-A__000008-000252.wav,hotel uniform uniform contact departure and schone tag
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210424_064001-D__000252-000472.wav,departure hotel uniform uniform schone tag
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_135448-A__000011-000750.wav,hotel hotel xray vacacated at zero and to the right and contact apron one two one decimal seven five five bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_173215-D__000012-000575.wav,hotel lima hotel wind zero one zero degrees one zero knots runway one zero cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_163754-A__000001-000472.wav,sun express three wind one six zero degrees four knots runway two eight cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210413_053348-A__000018-000248.wav,air canada seven two one six when did you see the lights
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_071700-D__000042-000472.wav,hotel sierra kilo wind zero three zero degrees one one knots runway two cleared takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210418_155559-B__000352-000842.wav,hello bravo whiskey zulu papa tower hello into control zone route echo clearance limit echo two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_142643-B__000013-000276.wav,swiss two one eight romeo can we vacate via hotel two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_142643-A__000297-000596.wav,swiss two one eight romeo affirm vacated as convenient
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210418_101741-D__000015-000309.wav,swiss three three two behind challenger line up to eight behind
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_155616-B__000010-000362.wav,zurich tower legend one two zero two good afternoon established ils one four
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_155616-A__000371-000976.wav,legend one two zero two tower hello wind one six zero degrees four knots runway one four cleared to land vacate at own discretion
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_155616-B__001006-001398.wav,cleared to land runway one four and vacate at own discretion legend one two zero two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_161146-A__000000-000612.wav,hotel bravo charlie lima hotel via echo line up and wait runway one zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_085908-B__000000-000404.wav,zurich tower hello then arrow jet six zero one on foxtrot
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_085908-A__000404-000927.wav,arrow jet six zero one tower on foxtrot cross runway one zero contact apron one two one decimal seven five five sorry
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_085908-B__000931-001215.wav,on foxtrot cross runway one zero one two one seven five
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_085908-XT__001215-001451.wav,alitalia five seven two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_191440-A__000000-000350.wav,jump run eight zero two climb to flight level one five zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210418_075050-A__000000-000944.wav,well there s marchall on it s way and in zurich it is handled like this all the time but it s any second with you
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_144335-A__000000-000536.wav,fraction one zero three mike wind one four zero degrees four knots runway two eight cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210418_131615-A__000000-000384.wav,hotel bravo victor roger after whiskey one proceed direct sierra
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210418_131615-B__000384-000613.wav,wilco hotel bravo victor
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210413_152740-A__000000-000271.wav,swiss one eight line up and wait runway one zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210413_152740-B__000283-000560.wav,line up and wait runway one zero swiss one eight
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_160024-B__000000-000407.wav,legend one two zero two hello again on juliett approaching runway two eight
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_160024-A__000421-001073.wav,legend one two zero two tower hello again cross runway two eight one juliett connect apron one two one decimal seven five five good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210413_080112-A__000000-000376.wav,wind check for runway one four three four degrees two knots
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_160214-A__000000-000459.wav,fraction four nine eight alfa hold position there will be crossing traffic i call you back
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_084612-G__000000-000163.wav,ready to touchdown
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_084612-B__000163-000289.wav,( er) four seven on juliett
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_084612-A__000297-001079.wav,sun turk nine four seven tower taxiway juliett cross runway two eight contact apron one two one decimal seven five five bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_125040-A__000000-000484.wav,royal air maroc three five two zurich tower good afternoon line up runway one zero report ready
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_111307-A__000000-000625.wav,roger then taxi via all alfa and echo on taxiway echo hold short runway one zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_081018-A__000000-000595.wav,united one three five wind zero three zero degrees one zero knots runway two eight cleared takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210413_105440-A__000000-000204.wav,swiss two zero four kilo departure bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210413_105440-B__000211-000409.wav,departure good bye swiss two zero four kilo
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_075710-A__000010-000376.wav,united one three five apron hello push back and startup is approved
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210413_204447-A__000000-000497.wav,swiss nine two identified climb to flight level one two zero and report passing altitude
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210416_174125-A__000000-000337.wav,hello air nostrum eight seven whiskey bravo zurich tower line up runway one zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_055758-XT__000000-000484.wav,singapore three four six contact apron one two one decimal seven five five bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_085414-A__000000-000696.wav,oscar echo india tango hotel tower on taxiway kilo cross runway two eight contact apron one two one decimal seven five five bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_064101-A__000000-000708.wav,foxtrot sierra foxtrot five eight four papa tower hello again actually hold position shortly
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronN_121_85MHz_20210414_110350-B__000000-000413.wav,copy seven seven taxi on zulu and bravo hold short runway one six
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210418_102439-A__000000-000600.wav,hotel bravo yankee juliett golf good afternoon behind you lining up pg twenty four line up runway two eight behind
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_180614-A__000000-000413.wav,hotel four six five tower hello line up runway one zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_092731-A__000000-000724.wav,delta hotel golf wind zero five zero degrees one two knots gusting one seven runway one four cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_092731-B__000724-000980.wav,cleared to land runway one four delta hotel golf
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_080802-A__000009-000529.wav,united one three five tower hello behind lufthansa line up runway two eight behind
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_080802-B__000529-000948.wav,united one three five behind lufthansa line up runway
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_054811-A__000000-000376.wav,november four charlie golf contact tower one one eight decimal one zero five
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_144013-A__000000-000459.wav,tango kilo alfa wind zero four zero degrees one zero knots on the one zero cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210424_081042-A__000000-000413.wav,hotel oscar echo the second traffic is now to overhead whiskey one opposite
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_150237-B__000000-000438.wav,tower hello again air portugal nine two six approaching right two eight kilo
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_150237-A__000455-001095.wav,air portugal nine two six at kilo cross runway two eight then contact the apron one two one decimal seven five five
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210424_160722-A__000000-000376.wav,sierra papa foxtrot bravo alfa tower hello hold position i ll call you back
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_144341-A__000000-000472.wav,delta tango tango taxi via alfa echo six hold short of runway one six
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210424_092648-A__000000-000413.wav,hotel delta charlie your re at the ctr frequency change approved bye bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210422_110047-A__000010-000363.wav,rega one in case you still with me you may leave the frequency
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_162243-A__000000-000553.wav,hotel bravo kilo hotel romeo apron hello qnh one zero two four taxi to holding position papa one
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_162243-A__000629-001188.wav,and report ready for departure once your re clear after inbound hotel delta lima
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_162532-A__000013-000497.wav,air nostrum seven eight juliett mike zero two zero degrees one three
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_112539-A__000008-000734.wav,qatari zero two mike on taxiway juliett cross runway one zero contact apron one two one decimal seven five five good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_112558-A__000000-000326.wav,air portugal nine three one charlie contact departure good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_112558-B__000337-000580.wav,departure bye air portugal nine three one charlie thank you
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210413_053020-B__000011-000495.wav,tower guten morgen air canada seven two one six heavy with you we re established six miles one four
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210413_053020-A__000511-001124.wav,air canada seven two one six tower good morning wind three five zero degrees three knots runway one four cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_103310-A__000000-000523.wav,dagobert one five five three to confirm on taxiway echo hold short runway one zero
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_ApronS_121_75MHz_20210414_133039-A__000000-000612.wav,tango charlie november kilo alfa apron hello turn left via alfa yankee two ten foxtrot seven three
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_112740-A__000010-000552.wav,royal air maroc three five two contact apron one two one decimal eight five five good bye
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_112740-B__000564-000882.wav,one two one decimal eight five five good bye royal air maroc three five two
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210414_101150-A__000000-000388.wav,hotel delta lima contact apron one two one decimal eight five five
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_163642-A__000000-000597.wav,air nostrum seven eight juliett mike direct hello wind one eight zero degrees four knots runway one four cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LSZH_ZURICH_Tower_118_1MHz_20210412_163642-B__000597-000846.wav,cleared to land one four air nostrum seven eight juliett mike
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210426_203652-B__000000-000638.wav,holding point runway three one via foxtrot and cross runway zero four euro trans two one correction one three juliett thank you
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_203041-A__000000-000252.wav,one three juliett correction position two foxtrot
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_203041-B__000252-000509.wav,two foxtrot euro trans one three juliett
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210505_121412-B__000000-000399.wav,elite jet two zero one and via foxtrot line up three one report ready
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210504_205033-B__000000-000308.wav,euro trans one three juliett request push and start
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210504_205033-A__000321-001229.wav,good evening euro trans one three juliett startup and push back approved position to foxtrot squawk four four two five
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210504_205033-B__001246-001912.wav,squawk four four two five and start and push pre approved position fox two foxtrot
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210426_132814-A__000000-000971.wav,stefanik tower top jet four zero one dobry den apron charlie in front of the hangar ready for startup cleared destination ostrava lima on board qnh one zero one seven
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210427_143155-B__000000-000651.wav,stefanik tower oscar mike charlie india alfa final runway one three oscar mike charlie india alfa
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210427_143155-A__000659-001284.wav,oscar mike charlie india alfa runway one three cleared to land wind one three zero degrees eight knots
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210427_143012-A__000000-000444.wav,stefanik tower oscar mike charlie india alfa request
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210427_143012-B__000444-000574.wav,yes go ahead
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210504_120242-A__000000-000509.wav,tel six zero three taxi to holding point runway one three via delta foxtrot
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_155946-A__000000-000385.wav,oscar kilo alfa golf lima squad four six seven four six
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_155946-B__000385-000507.wav,six seven four six
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Approach_120_9MHz_20210426_202558-A__000000-000433.wav,november one alfa would be more affordable euro trans one three juliett thank you
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Approach_120_9MHz_20210428_092625-A__000000-000301.wav,time air three nine seven foxtrot call me on tower frequency please
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Approach_120_9MHz_20210428_092625-B__000301-000386.wav,roger
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210502_141218-A__000011-000362.wav,stefanik tower pekne popoludnie tatra six one three establish ils three one
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210502_141218-B__000376-001285.wav,tatra six one three dobre popoludnie stefanik tower runway three one cleared to land wind three zero zero degrees one nine knots maximum three three knots
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210502_141218-A__001306-001563.wav,runway three one clear to land tatra six one three
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210502_141218-B__001576-001835.wav,and after landing vacate via delta
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210502_141218-A__001852-002001.wav,after landing via delta six one three
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210503_131815-A__000009-000373.wav,delta bravo bravo line up runway three one report ready for departure
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210503_131815-B__000391-000802.wav,delta bravo bravo lining up runway three one we are ready for departure
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210503_131815-A__000805-000852.wav,roger
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210428_203205-B__000000-000574.wav,startup push back approved position to foxtrot squawk four four zero seven euro trans one three juliett
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210505_224858-B__000000-000523.wav,runway three one cleared to land we copied top jet seven zero four
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_000651-B__000000-000480.wav,euro trans five three three five approaching fox one six ready for departure
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210429_202823-A__000000-000372.wav,euro trans one three juliett startup approved own discretion
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210429_202823-B__000383-000651.wav,startup own discretion euro trans one three juliett
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210505_145115-A__000028-000428.wav,top jet four zero two via delta foxtrot ten three three
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210505_145115-B__000442-000757.wav,delta foxtrot ten three three top jet four zero two
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_104342-B__000000-000376.wav,stefanik tower good day austrian one four one one ils three one
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210503_204845-A__000000-000444.wav,euro trans one three juliett taxi to holding point runway zero four via alfa delta
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210503_204845-C__000444-000811.wav,alfa delta holding point zero four euro trans one three juliett
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_151209-A__000011-000646.wav,stefanik tower dobry den burg six nine two lima stop established runway three one six point five dme
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_151209-B__000650-001002.wav,air hamburg six nine two lima stefanik tower dobry den
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_151209-B__001006-001963.wav,wind two two zero degrees five knots variable between one seven zero and two three zero degrees maximum one zero minimum three runway three one cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210503_203710-A__000000-000468.wav,oscar mike echo lima echo taxi between anchors via foxtrot
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210503_203710-B__000488-000941.wav,taxi between anchors via foxtrot oscar mike echo lima echo
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210425_120446-B__000000-000459.wav,taxi holding point three one via foxtrot cross runway zero four slovak government zero zero four
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210505_073328-A__000000-000649.wav,dark blue five four romeo stefanik tower dobre rano runway three one cleared to land wind zero eight zero degrees six knots
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210505_073328-B__000655-000888.wav,right three one cleared to land dark blue five four romeo
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_181535-A__000000-000734.wav,oscar golf echo continue to final runway two two traffic is just now before shortly before landing
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210427_162200-A__000000-000403.wav,b air seven one two taxi via delta line up runway zero four
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210427_162200-B__000409-000661.wav,via delta line up zero four b air seven one two
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210505_093242-B__000000-000587.wav,stefanik tower dobry den elite jet eight zero one crossing two right base runway one three
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210427_163922-B__000000-000258.wav,looking out for a traffic oscar mike kilo lima lima
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210427_163922-A__000271-000756.wav,roger just traffic is on your eleven o clock one mile
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210425_130418-A__000010-000671.wav,qnh one zero one eight after keep the proceeding to victor
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210505_173822-B__000002-000398.wav,cleared to land runway three one and please say again the wind
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210505_173822-A__000418-000926.wav,two eight zero degrees one one knots maximum one eight minimum six knots
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_203034-B__000000-000612.wav,push and start approved on position three foxtrot on squawk four four zero two euro trans one three juliett
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_181207-A__000000-000625.wav,oscar golf echo roger descend to traffic altitude one thousand five hundred feet
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_181207-B__000638-001060.wav,start descending one thousand five hundred feet altitude oscar mike alfa golf echo
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210505_225241-A__000000-000312.wav,elite jet seven zero four taxi via delta to apron charlie
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210423_120826-A__000000-000587.wav,slovak airforce seven four four five frequency change approved dopocutia pekny let
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210424_151420-B__000000-000372.wav,dobre popoludnie stefanik tower b air nine four one ils three one
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210424_151420-A__000390-001221.wav,b air nine four one stefanik tower pekne popoludnie wind three one zero degrees eight knots variable between two seven zero and three three zero degrees runway three one cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210424_151420-B__001234-001496.wav,runway three one cleared to land b air nine four one
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210429_203102-B__000000-000540.wav,two zero three six thanks for your help one three juliett start and push and start call you for taxi
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210429_203102-A__000545-000831.wav,roger squawk four four zero four
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Approach_120_9MHz_20210426_203133-A__000000-000528.wav,right so then yeah tovka one kilo would be much better euro trans one three juliett thank you
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Approach_120_9MHz_20210426_203133-B__000530-001325.wav,euro trans one three juliett roger so recleared via tovka one kilo departure of runway three one initial climb five thousand feet
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Approach_120_9MHz_20210426_203133-A__001349-002066.wav,recleared at tovka one kilo departure runway three initial climb five thousand feet and request push and start euro trans one three juliett
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Approach_120_9MHz_20210426_203133-B__002075-002801.wav,euro trans one three juliett push and start approved facing foxtrot and squawk four four zero three
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210430_150028-A__000000-000561.wav,roger position start approved position five foxtrot and squawk four four two three for wizz air six two seven six
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210425_122209-B__000000-000430.wav,stefanik tower ahoj top jet two zero two established final track rnp three one
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210425_122209-A__000440-001143.wav,top jet two zero two stefanik tower dobry den wind three one zero degrees two one knots runway three one clear to land
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210425_122209-B__001147-001387.wav,runway three one cleared to land top jet two zero two
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210503_202731-B__000000-000864.wav,stefanik tower oscar mike echo lima echo altitude six thousand feet and descending to two thousand feet
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210503_202731-B__000908-002110.wav,we would be at about victor in forty seconds and requesting approach information information quebec qnh one zero two zero
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210505_120635-A__000000-000548.wav,november four nine xray lima taxi via delta line up zero four report ready
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210505_120635-B__000548-001023.wav,via delta line up zero four call you when ready november four nine xray lima
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210429_075711-B__000000-000415.wav,stefanik tower slovak government zero zero four dobre rano
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210429_075711-A__000429-000700.wav,slovak government zero zero four stefanik tower dobre rano
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210429_075711-B__000715-001249.wav,our stand information lima one zero zero seven ready for startup clearance destination kosice
+dataset/ATCO2/audios/atco2_test-set-1h_LZIB_STEFANIK_Tower_118_3MHz_20210429_075711-A__001257-002784.wav,slovak government zero zero four information mike time five seven qnh one zero zero eight cleared to kosice from runway one three via nitra one yankee departure initially climb altitude five thousand feet startup approved squawk six seven four six
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_065130-A__000000-000376.wav,cleared to land runway one six right china southern three zero one
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210427_090118-A__000000-000446.wav,sydney tower good evening singapore seventy two ninety eight is one six right
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210428_020602-A__000000-000220.wav,tower good day rex sixty four sixty four
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210428_020602-B__000220-000525.wav,rex sixty four sixty four sydney tower good afternoon
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210429_013422-B__000000-000310.wav,sydney tower good morning jetstar seven forty six established
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210429_013422-A__000310-000561.wav,jetstar seven forty six sydney tower
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_122443-B__000000-000497.wav,tower united twenty twelve is just outside gala for one six right
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210430_215820-A__000000-000877.wav,continue approach for connie eight three five answer with mike i think we ll be able if we can make it it s probably gonna be golf or golf one for connie eight three five
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210430_215820-B__000877-001069.wav,connie eight three five copy
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210501_200237-B__000000-000286.wav,twin jet five zero on a short delay waiting on our release from the back
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210501_090436-A__000000-000603.wav,sydney tower evening qantas seventy seven zero one now at three international
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_093243-B__000000-000458.wav,tower connie eight thirty five on the ils one six three
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210427_063034-B__000000-000174.wav,turning air cross nine twenty three heavy
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210427_063034-A__000174-000470.wav,contract nine twenty three heavy sydney tower good day
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_121757-A__000000-000287.wav,one six right cleared to land jet ex seven four three four
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210430_224017-A__000000-000261.wav,sydney tower good day qlink four zero two
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210430_224017-C__000261-000535.wav,qlink four zero two sydney tower good morning
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210428_013626-A__000000-000221.wav,tower good day jetstar seven sixty three
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210428_013626-B__000221-000479.wav,jetstar seven sixty three sydney to
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_012942-B__000056-000204.wav,tower jetstar seven six three
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_012942-A__000225-000392.wav,jetstar seven six three sydney ciao
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_114326-B__000056-000400.wav,sydney tower good evening jetstar six seventy one final runway three four left
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_075426-B__000024-000420.wav,hello sydney good evening jetstar four seventy five climbing flight level two eight zero
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_204538-B__000042-000514.wav,tower good morning singapore seven two seven four heavy ils one three zero one six right
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_075331-B__000020-000208.wav,sydney tower rex sixty four seventy two
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_075331-A__000224-000446.wav,rex sixty four seventy two sydney tower
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_063423-B__000031-000409.wav,runway three four left cleared to land quantas one forty six
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_004629-B__000041-000262.wav,runway one six right cleared to land jetstar five zero eight
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_232546-B__000016-000250.wav,cleared to land runway one six five qjet fifteen zero four
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210501_084307-B__000012-000537.wav,roger continue approach expect to land vacate golf dynasty zero five one
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_055020-B__000035-000363.wav,tower good day new zealand two thirty one seven charlie three four left
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_084834-B__000028-000463.wav,sydney tower good evening dynasty zero five five seven miles runway zero s runway three four left
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210427_042838-D__000024-000323.wav,runway one six right cleared to land pass seven six seven
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_041017-D__000009-000219.wav,runway three four left cleared to land runway six forty three
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_074234-D__000003-000465.wav,roger cleared to land runway three four left exit on the high speed on right
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_213748-A__000006-000611.wav,korean air one two one wind two four zero degrees five knots runway one six right cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_213748-B__000636-001018.wav,runway one six right cleared to land korean air one two one heavy
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210427_202441-D__000036-000275.wav,tower american seven three heavy ten miles three voila
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210427_202441-A__000302-000518.wav,hello american seven three heavy sydney tower good morning
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210501_014446-B__000041-000428.wav,tower good afternoon emirates nine two four two cleared ils three four left seven miles final
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210501_014446-A__000444-000799.wav,emirates nine two forty two heavy sydney tower good afternoon continue approach
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_203701-B__000036-000290.wav,one six right cleared to land qantas seven seven zero two
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_224723-D__000012-000245.wav,runway one six right cleared to land holding point seven nine
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210430_044251-B__000090-000270.wav,sydney tower rex sixty one seventy five
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210430_044251-A__000314-000711.wav,rex sixty one seventy five sydney tower good afternoon
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_124859-A__000642-000921.wav,cleared to land runway one six right call us seventy two twenty one
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_211113-B__000028-000271.wav,runway one six right cleared to land velocity eight zero three
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_044333-B__000003-000359.wav,two seven five and four knots qantas four forty six
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_065016-B__000000-000415.wav,tower good afternoon china southern three zero one established ils one six right
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_065016-A__000428-000883.wav,china southern three zero one heavy sydney tower good afternoon
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_062227-B__000000-000347.wav,tower good evening qatari six tango papa ils three four left
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_062227-A__000356-000785.wav,qatari six tango papa heavy sydney tower good day continue approach
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_024039-A__000000-000276.wav,rex sixty eight sixty eight contact departure
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_024039-B__000289-000521.wav,departure rex sixty eight sixty eight
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_041102-B__000008-000271.wav,sydney tower jetstar seven sixty seven
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_041102-A__000284-000523.wav,jetstar seven sixty seven sydney tower
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_041424-B__000000-000235.wav,runway one six right cleared to land qantas four forty four
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_034700-B__000000-000184.wav,good day qantas nine ninety four
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_034700-A__000197-000420.wav,qantas nine ninety four tower good day
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_211912-A__000000-000180.wav,jetstar nine twelve contact departure
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_211912-B__000199-000319.wav,jetstar nine twelve
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_201130-B__000000-000413.wav,sydney tower good morning american seventy three ils three four left
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_234913-B__000000-000324.wav,runway one six right cleared to land malaysian one twenty three
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_071422-A__000000-000273.wav,one six right cleared to land rex sixty one thirty four
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_080253-B__000000-000272.wav,sydney tower evening qantas seventy five twenty eight heavy
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_080253-A__000283-000528.wav,qantas seventy five twenty eight heavy sydney tower
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_233332-B__000000-000725.wav,sydney tower good day china eastern seven five six one establish our localizer runway one six right
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_083640-B__000000-000227.wav,sydney tower good day jetstar five twenty two
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_083640-A__000227-000420.wav,jetstar five twenty two sydney tower
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_083640-A__000420-000760.wav,qlink forty two delta runway three four left cleared for takeoff
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_113531-B__000000-000273.wav,one six right cleared to land qantas six one fifty eight
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_121431-B__000000-000413.wav,one six right cleared to land and understood qantas four ninety eight
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_011805-B__000000-000248.wav,one six right cleared to land qlink two zero six delta
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_041006-B__000000-000383.wav,continue approach runway one six right china eastern seven seven nine one
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_012016-A__000000-000297.wav,jetstar four zero nine approved route to bravo four
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_012016-C__000305-000536.wav,approved bravo four thank you jetstar four zero nine
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_080227-B__000000-000534.wav,vacate golf runway three four left cleared to land air china six one three
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_203052-B__000000-000535.wav,tower american seventy three approaching igala runway one six right eight ils
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_043414-B__000000-000208.wav,sydney tower good day qantas five twenty nine
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_043414-A__000212-000434.wav,qantas five twenty nine sydney tower
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_004327-A__000000-000268.wav,china southern three twenty six contact departure
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_004327-B__000288-000508.wav,contact departure china southern three two six
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_090653-B__000000-000324.wav,runway one six right cleared to land qantas seventy seven zero one
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_083521-A__000031-000300.wav,bauhinia two zero one eight contact departure good night
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_083521-B__000300-000589.wav,contact departure good night bauhinia two zero one eight
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_211431-A__000000-000246.wav,jetstar seven eighty four contact departure
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_211431-B__000257-000486.wav,jetstar seven eighty four good morning
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_235050-B__000000-000324.wav,tower viet nam seven seven three good morning
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_235050-A__000324-000909.wav,viet nam seven seven three heavy sydney tower good morning continue approach threshold wind two seven zero degrees seven knots
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_073426-B__000000-000376.wav,runway three four left cleared to land vacate bravo three jetstar five twenty
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_054947-B__000000-000457.wav,sydney tower good afternoon fedex seventy seven heavy inbound ils runway one six right
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_054947-A__000457-000716.wav,fedex seventy seven heavy sydney tower good day
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_055244-B__000000-000388.wav,tower bauhinia two zero one seven established ils three four left
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_002640-A__000005-000544.wav,qantas four twenty six wind two six zero degrees eight knots runway one six right cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210504_002640-B__000545-000856.wav,runway one six right cleared to land four twenty six
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_012007-B__000000-000676.wav,runway three four left cleared to land then request above three two bravo four if available jetstar four zero nine
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210505_214612-B__000000-000363.wav,sydney tower srilankan six zero six back with you ils one six right
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_040816-B__000000-000188.wav,sydney tower qantas six forty two
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210502_040816-A__000188-000376.wav,qantas six forty two sydney tower good day
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_223154-A__000000-000444.wav,jetstar seven six one wind is calm runway one six right cleared to land
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_223154-B__000444-000721.wav,cleared to land one six right jetstar seven sixty one
+dataset/ATCO2/audios/atco2_test-set-1h_YSSY_SYDNEY_Tower_120_5MHz_20210503_005135-A__000000-000484.wav,continue approach three four eleven vacate via alfa two singapore two thirty one
