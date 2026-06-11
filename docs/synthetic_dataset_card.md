@@ -29,15 +29,17 @@ The dataset accompanies:
 
 ## Dataset Structure
 
-The dataset provides one training split. Each row contains:
+The dataset provides one training split packaged as uncompressed WebDataset TAR
+shards. Every sample has a paired `<key>.wav` audio file and `<key>.json`
+metadata record. The JSON record contains:
 
 | Field | Description |
 | --- | --- |
-| `file_name` | Relative path to the generated WAV file |
 | `text` | Transcript used to generate the audio |
 | `tts_system` | Speech-generation system |
 | `voice_source` | Source domain used for the synthetic voice |
 | `transcript_source` | Original transcript corpus: `UWB` or `ATCOSIM` |
+| `original_audio_filename` | Original relative path used by the research code |
 
 The dataset is balanced across four speech-generation systems and four
 voice-source domains:
@@ -64,10 +66,14 @@ from datasets import load_dataset
 dataset = load_dataset("thaivanphat95/synthetic-atc-speech", split="train")
 sample = dataset[0]
 
-print(sample["text"])
-print(sample["tts_system"])
-print(sample["voice_source"])
+print(sample["wav"])
+print(sample["json"]["text"])
+print(sample["json"]["tts_system"])
+print(sample["json"]["voice_source"])
 ```
+
+The TAR shards are stored under `data/`. `shard_manifest.csv` records the
+sample count and byte size of every shard.
 
 ## Intended Use
 

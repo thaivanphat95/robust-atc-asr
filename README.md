@@ -97,6 +97,13 @@ Models ending in `-4gram` include a 4-gram language model for decoding.
 | L2-ARCTIC repeated SupCon, 8-fold split 0 | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-8fold-0) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-8fold-0-4gram) |
 | L2-ARCTIC repeated SupCon, Arabic L1 holdout | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-arabic-holdout) | [Model](https://huggingface.co/thaivanphat95/wav2vec2-large-l2-arctic-supcon-repeated-arabic-holdout-4gram) |
 
+## Published Dataset
+
+The synthetic speech used by the TTS and hybrid workflows is published as
+[Synthetic ATC Speech](https://huggingface.co/datasets/thaivanphat95/synthetic-atc-speech).
+It is distributed as WebDataset TAR shards to make the large audio collection
+practical to upload and stream.
+
 ## Repository Layout
 
 ```text
@@ -177,6 +184,15 @@ files/ATCO2/test.csv                       ATCO2 evaluation metadata
 
 Synthetic audio used by `train_tts.py` and `train_hybrid.py` is expected under
 `dataset/Synthetic/` and must match the paths listed in each `synthetic.csv`.
+
+To package the local synthetic audio for Hugging Face without changing the
+training layout:
+
+```bash
+python scripts/prepare_hf_synthetic.py
+```
+
+This creates upload-ready WebDataset shards under `dataset/Synthetic_HF/`.
 
 ## License
 
