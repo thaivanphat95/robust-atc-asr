@@ -185,15 +185,6 @@ files/ATCO2/test.csv                       ATCO2 evaluation metadata
 Synthetic audio used by `train_tts.py` and `train_hybrid.py` is expected under
 `dataset/Synthetic/` and must match the paths listed in each `synthetic.csv`.
 
-To package the local synthetic audio for Hugging Face without changing the
-training layout:
-
-```bash
-python scripts/prepare_hf_synthetic.py
-```
-
-This creates upload-ready WebDataset shards under `dataset/Synthetic_HF/`.
-
 ## License
 
 The original source code in `scripts/` and `src/` is licensed under the

@@ -63,8 +63,12 @@ voice-source domains:
 ```python
 from datasets import load_dataset
 
-dataset = load_dataset("thaivanphat95/synthetic-atc-speech", split="train")
-sample = dataset[0]
+dataset = load_dataset(
+    "thaivanphat95/synthetic-atc-speech",
+    split="train",
+    streaming=True,
+)
+sample = next(iter(dataset))
 
 print(sample["wav"])
 print(sample["json"]["text"])
