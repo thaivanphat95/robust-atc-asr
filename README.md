@@ -4,7 +4,8 @@ Research code for robust air traffic control speech recognition.
 
 Associated papers:
 
-- **Contrastive Regularization for Accent-Robust ASR** (INTERSPEECH 2026)
+- [**Contrastive Regularization for Accent-Robust ASR**](https://arxiv.org/abs/2605.03297)
+  (INTERSPEECH 2026)
 - **Improving Cross-Dataset Robustness of Air Traffic Control Speech Recognition** (ITSC 2026)
 
 The repository provides CTC and supervised contrastive learning workflows for
@@ -184,6 +185,21 @@ files/ATCO2/test.csv                       ATCO2 evaluation metadata
 
 Synthetic audio used by `train_tts.py` and `train_hybrid.py` is expected under
 `dataset/Synthetic/` and must match the paths listed in each `synthetic.csv`.
+
+## Citation
+
+If you use this code, the published models, or the synthetic dataset, please
+cite:
+
+```bibtex
+@article{thai2026contrastive,
+  title={Contrastive Regularization for Accent-Robust ASR},
+  author={Thai, Van-Phat and Dhruv, Aradhya and Pham, Duc-Thinh and Alam, Sameer},
+  journal={arXiv preprint arXiv:2605.03297},
+  year={2026},
+  doi={10.48550/arXiv.2605.03297}
+}
+```
 
 ## License
 

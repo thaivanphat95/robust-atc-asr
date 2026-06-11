@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, dataset, or models, please cite the associated paper."
+title: "Robust ATC ASR"
+type: software
+authors:
+  - family-names: Thai
+    given-names: Van-Phat
+  - family-names: Dhruv
+    given-names: Aradhya
+  - family-names: Pham
+    given-names: Duc-Thinh
+  - family-names: Alam
+    given-names: Sameer
+repository-code: "https://github.com/thaivanphat95/robust-atc-asr"
+url: "https://arxiv.org/abs/2605.03297"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Thai
+      given-names: Van-Phat
+    - family-names: Dhruv
+      given-names: Aradhya
+    - family-names: Pham
+      given-names: Duc-Thinh
+    - family-names: Alam
+      given-names: Sameer
+  title: "Contrastive Regularization for Accent-Robust ASR"
+  year: 2026
+  doi: "10.48550/arXiv.2605.03297"
+  url: "https://arxiv.org/abs/2605.03297"

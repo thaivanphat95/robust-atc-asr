@@ -6,6 +6,7 @@ task_categories:
   - automatic-speech-recognition
   - text-to-speech
 tags:
+  - arxiv:2605.03297
   - audio
   - air-traffic-control
   - synthetic-speech
@@ -23,6 +24,7 @@ utterances from 15,660 unique ATC transcripts.
 
 The dataset accompanies:
 
+- [Contrastive Regularization for Accent-Robust ASR](https://arxiv.org/abs/2605.03297)
 - [Robust ATC ASR code](https://github.com/thaivanphat95/robust-atc-asr)
 - [UWB SupCon Hybrid model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-supcon-hybrid)
 - [UWB+ATCOSIM SupCon Hybrid model](https://huggingface.co/thaivanphat95/wav2vec2-robust-uwb-atcosim-supcon-hybrid)
@@ -120,6 +122,18 @@ source-voice material, and speech-generation systems.
   biases.
 - Transcripts are specialized for English ATC communication.
 - The dataset may contain generation errors despite metadata integrity checks.
+
+## Citation
+
+```bibtex
+@article{thai2026contrastive,
+  title={Contrastive Regularization for Accent-Robust ASR},
+  author={Thai, Van-Phat and Dhruv, Aradhya and Pham, Duc-Thinh and Alam, Sameer},
+  journal={arXiv preprint arXiv:2605.03297},
+  year={2026},
+  doi={10.48550/arXiv.2605.03297}
+}
+```
 
 ## License
 
